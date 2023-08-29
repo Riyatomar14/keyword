@@ -49,6 +49,23 @@ Now, focus on terms-
 1.IP Address
 2.DNS[domain name server]
 3.Routing
+#Ip address[internet protocol]-a unique address which identify the device on internet or on local internet .There are three types of ip address-
+*Private-ex:10. ,172. ,192. . 
+*Public- ex:11.. 
+*Local-ex:127.0.00[a specific number]
+like JIO-ipv6, airtel-ipv4.
+#DNS[domain name server]-ex:google.com
+#Routing-the process of path selection in any network.
+now, KEYWORD 1.BARE METAL for fresh server[which has no operating sysytem]
+             2.DUAL BOOT-2 operating system 
+HYPERVISOR -A program used to run and manage two or more virtual machine.
+There are two type of hypervisor-
+1.type-1
+2.type-2
+type-1 -- there is no need to install operating system .
+
+
+
 
 
 
