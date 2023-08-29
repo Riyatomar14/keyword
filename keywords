@@ -63,7 +63,10 @@ There are two type of hypervisor-
 1.type-1
 2.type-2
 type-1 -- there is no need to install operating system.
-Bare metal-->hypervisor type 
+Bare metal-->hypervisor type-1-->VM1,VM2,VM3
+type2--there is a need to install operating system .
+bare metal-->install operating system-->VM1,VM2,VM3-->type 2[
+
  
 
 
