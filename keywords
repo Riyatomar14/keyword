@@ -1,24 +1,18 @@
-Hi guys, I like to share some technical words which a computer science student has to study this a whole life.
-DESKTOP--> Desktop mainly divided into three parts-
-           1. Computation  2.Storage  3. Network  
-Now focus on some terms -
+Hi guys, I like to share some technical words which are important for computer science student. 
+1.*DESKTOP*--> Desktop mainly divided into three parts-
+           1. Computation  2.Storage  3. Network
+2.*SOME TERMS* -
 CPU-central processing unit 
 GPU-graphic processing unit 
 DPU-data processing unit
 TPU-tensor processing unit
- We see some popular company and their functions-
-1.INTEL
-2.AMD
-3.ARM
-Intel and AMD(advanced micro devices)-
-They come under CISC[complex instruction set computer].It is a closed source and this is a low level language.It develop X-86 series under ISA[intruction set arichtecture] in 1978. 
-ARM[Adavnce risc machine]-
-It come under RISC[reduced instruction set computer].It is a close source and this a high level language.It has specific intruction,very fast and efficient.It develop RISC-V in 2023 and which is a free open source for peoples.  
-NOTE POINT --
-1. AMD processors are more power efficient.
-2. AMD processors are more cheaper than intel.
-3. RISC-V is low cost and give high performance than CISC. 
-We need some OPERATING SYSTEM to store data-
+3.*CISC[complex instruction set computer]*--closed source like intel and AMD(advanced micro devices).It develop X-86 series under ISA[intruction set arichtecture] in 1978. 
+4*RISC[reduced instruction set computer]*--close source like ARM[Adavnce risc machine] .It has specific intruction,very fast and efficient.
+5.*RISC-V*--it is based on RISC principles and develop in 2023 and which is a free open source.  
+6.*KERNEL*--that manages operations between computer and hardware.
+#kernel programing language-
+C,C++,rust
+7.*OPERATING SYSTEM to store data-
 1.Windows
 2.MacOS
 Windows-
