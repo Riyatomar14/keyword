@@ -91,6 +91,9 @@ SSH[secure shell]-22
 44.*UPD*- User data gram protocol, is a commuincation protocol used acrros the internet for especially time- sensitive transimission
 45.*Packets*- Its a small segment of a large message. Data send over computer networks, such as internt, is divided into packets, recombined why client computer
 46.*Load balance*- It is the method of distributing network traffic eqaully across a pull of resources that support an application.
+47.Von Neumann architecture and harvard architecture
+### Data Structure 
+
 
 
 
