@@ -10,6 +10,7 @@ TPU-tensor processing unit
 4*RISC[reduced instruction set computer]*--close source like ARM[Adavnce risc machine] .It has specific intruction,very fast and efficient.
 5.*RISC-V*--it is based on RISC principles and develop in 2023 and which is a free open source.  
 6.*KERNEL*--that manages operations between computer and hardware.
+![kerneland user space Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FAskProgramming%2Fcomments%2F7wzkj7%2Fuser_space_and_kernel_space%2F&psig=AOvVaw3EnDoMOpxNGdfGcg20cZ5w&ust=1693737768897000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCM1YLfi4EDFQAAAAAdAAAAABAT)
 #kernel programing language-
 C,C++,rust
 7.*OPERATING SYSTEM to store data-
