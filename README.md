@@ -184,15 +184,23 @@ f.go global in minutes
 ![command](https://static.thegeekstuff.com/wp-content/uploads/2010/11/filesystem-structure.png)
 
 58.**COMPUTER BASICS**-
+
 a.**SSL CERTIFICATE**-An SSL certificate is a digital certificate that authenticates a website's identity and enables an encrypted connection. SSL stands for Secure Sockets Layer, a security protocol that creates an encrypted link between a web server and a web browser.standard form of certificate is X.509.
-b.**NAT**-Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device
+
+b.**NAT**-Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.
 
 59.**BLOCKCHAIN**-
+
 a.it is a advanced database mechanism that allows transparent information sharing with in a business network.
+
 b.it made by**SANTOSHI NAKAMOTO**in 2008.
 
 60.**CURRENCY**-
+
 a.bitcoin-it is a innovative payment network and a new kind of money.Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
-b.ethereum-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source
+
+b.ethereum-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source.
+
 c.**ICO**-An initial coin offering (ICO) is an event where a company sells a new cryptocurrency to raise money.
+
 d.**MLM**-Multi-level Marketing (MLM) or network marketing, is individuals selling products to the public - often by word of mouth and direct sales. 
