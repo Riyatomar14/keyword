@@ -159,29 +159,29 @@ a.class b.object c.reference d.construction </br>
 
 52.**IDE**-INTEGRATED DEVELOPMENT ENVIROMENT</br>
 
-53.### TERMS RELATED TO CLOUD COMPUTING-
-a.**IAAS**(infrastructure as a service):amazon web service(AWS),google computer engine (GCE),microsoft AZURE.
-b.**SAAS**(software as a service):dropbox,google workspace,and salesforce.
-c.**PAAS**(platform as a service):VM Ware,oracle cloud platform(OCP),adobe commerce.
+53. ### TERMS RELATED TO CLOUD COMPUTING-</br>
+a.**IAAS** (infrastructure as a service): Amazon web service(AWS),Google computer engine (GCE),Microsoft AZURE.</br>
+b.**SAAS** (software as a service): dropbox,google workspace,and salesforce.</br>
+c.**PAAS** (platform as a service): VM Ware,oracle cloud platform(OCP),adobe commerce.
 
-54.**TYPES OF CLOUD**-
-a.public cloud- It is cloud computing that`s delivered via the internet and shared accross thr organisation.
-b.private cloud-it is a cloud computing that is dedicated solely to your organisation.
-c.hybrid cloud-it is any environment that uses both public and private cloud.
+54.**TYPES OF CLOUD** -</br>
+a.**Public Cloud** - It is cloud computing that`s delivered via the internet and shared accross thr organisation.</br>
+b.**Private Cloud** -it is a cloud computing that is dedicated solely to your organisation.</br>
+c.**Hybrid Cloud**-it is any environment that uses both public and private cloud.
 
-55.**Benefits of cloud computing**-
-a.scalability
-b.accessibility
-c.redundancy
-d.efficiency
-e.security
+55.**Benefits of cloud computing**-</br>
+a.scalability</br>
+b.accessibility</br>
+c.redundancy</br>
+d.efficiency</br>
+e.security</br>
 f.go global in minutes
 
 56.**LINUX COMMAND**
 ![command](https://pbs.twimg.com/media/FvIlnUvakAMH_1F.jpg:large)
 
-57.**UBUNTU DIRECTORIES**
-![command](https://static.thegeekstuff.com/wp-content/uploads/2010/11/filesystem-structure.png)
+57.**UBUNTU DIRECTORIES**</br>
+![command](https://static.thegeekstuff.com/wp-content/uploads/2010/11/filesystem-structure.png)</br>
 
 58.**COMPUTER BASICS**-
 
@@ -191,15 +191,15 @@ b.**NAT**-Network address translation (NAT) is a method of mapping an IP address
 
 59.**BLOCKCHAIN**-
 
-a.it is a advanced database mechanism that allows transparent information sharing with in a business network.
+a.It is a advanced database mechanism that allows transparent information sharing with in a business network.
 
-b.it made by**SANTOSHI NAKAMOTO**in 2008.
+b.It made by **SANTOSHI NAKAMOTO** in 2008.
 
 60.**CURRENCY**-
 
-a.bitcoin-it is a innovative payment network and a new kind of money.Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
+a.**Bitcoin**-it is a innovative payment network and a new kind of money.Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
 
-b.ethereum-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source.
+b.**Ethereum**-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source.
 
 c.**ICO**-An initial coin offering (ICO) is an event where a company sells a new cryptocurrency to raise money.
 
