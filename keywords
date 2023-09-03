@@ -92,11 +92,16 @@ SSH[secure shell]-22
 45.*Packets*- Its a small segment of a large message. Data send over computer networks, such as internt, is divided into packets, recombined why client computer
 46.*Load balance*- It is the method of distributing network traffic eqaully across a pull of resources that support an application.
 47.Von Neumann architecture and harvard architecture
-### Data Structure 
-
-
-
-
+48.* Data Structure* 
+![flow chart](https://scontent.fdel10-1.fna.fbcdn.net/v/t1.6435-9/189964934_1588261171367985_5735720792545224260_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9267fe&_nc_ohc=4D3y3NUKWQQAX9nRkEm&_nc_ht=scontent.fdel10-1.fna&oh=00_AfCvhrWQBzG4U7LDgPV5sc2SnkACPte5QuYNBzKprfzpDQ&oe=651B6DD0)
+49.*OOPS[object-oriented programming system]*--> C+OOPS=C++
+50.*OOPS contain*--
+a.class b.object c.reference d.construction 
+51.*TYPES OF OOPS*
+![diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyannmjl.medium.com%2Fobject-oriented-programming-concepts-in-simple-english-3db22065d7d0&psig=AOvVaw3k4iwraNfh4VbkmFKVS6xP&ust=1693799077621000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiHy7TDjYEDFQAAAAAdAAAAABAt)
+52.*IDE*-INTEGRATED DEVELOPMENT ENVIROMENT
+    ![von newman artichecture diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnlearn.uk%2Falevelcs%2Fvon-neumann-architecture%2F&psig=AOvVaw3GZHWjmTY_er9Cwt-5fhG2&ust=1693799268407000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICm1o_EjYEDFQAAAAAdAAAAABAW)
+53.
 
 
 
