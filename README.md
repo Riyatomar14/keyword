@@ -150,19 +150,25 @@ SSH[secure shell]-22
 ![flow chart](https://scontent.fdel10-1.fna.fbcdn.net/v/t1.6435-9/189964934_1588261171367985_5735720792545224260_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9267fe&_nc_ohc=4D3y3NUKWQQAX9nRkEm&_nc_ht=scontent.fdel10-1.fna&oh=00_AfCvhrWQBzG4U7LDgPV5sc2SnkACPte5QuYNBzKprfzpDQ&oe=651B6DD0)
 
 49.**OOPS[object-oriented programming system]**--> *C* + *OOPS*=**C++**.</br>
+
 50.**OOPS contain**--
 a.class b.object c.reference d.construction </br>
+
 51.**TYPES OF OOPS**</br>
 ![diagram](https://static.javatpoint.com/interview/images/oops-interview-questions-q4.png)</br>
+
 52.**IDE**-INTEGRATED DEVELOPMENT ENVIROMENT</br>
+
 53.### TERMS RELATED TO CLOUD COMPUTING
 a.**IAAS**(infrastructure as a service):amazon web service(AWS),google computer engine (GCE),microsoft AZURE.
 b.**SAAS**(software as a service):dropbox,google workspace,and salesforce.
 c.**PAAS**(platform as a service):VM Ware,oracle cloud platform(OCP),adobe commerce.
+
 54.**TYPES OF CLOUD**-
 a.public cloud- It is cloud computing that`s delivered via the internet and shared accross thr organisation.
 b.private cloud-it is a cloud computing that is dedicated solely to your organisation.
 c.hybrid cloud-it is any environment that uses both public and private cloud.
+
 55.**Benefits of cloud computing**
 a.scalability
 b.accessibility
@@ -170,16 +176,21 @@ c.redundancy
 d.efficiency
 e.security
 f.go global in minutes
+
 56.**LINUX COMMAND**
 ![command](https://pbs.twimg.com/media/FvIlnUvakAMH_1F.jpg:large)
+
 57.**UBUNTU DIRECTORIES**
 ![command](https://static.thegeekstuff.com/wp-content/uploads/2010/11/filesystem-structure.png)
+
 58.**COMPUTER BASICS**
 a.**SSL CERTIFICATE**-An SSL certificate is a digital certificate that authenticates a website's identity and enables an encrypted connection. SSL stands for Secure Sockets Layer, a security protocol that creates an encrypted link between a web server and a web browser.standard form of certificate is X.509.
 b.**NAT**-Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device
+
 59.**BLOCKCHAIN**
 a.it is a advanced database mechanism that allows transparent information sharing with in a business network.
 b.it made by**SANTOSHI NAKAMOTO**in 2008.
+
 60.**CURRENCY**
 a.bitcoin-it is a innovative payment network and a new kind of money.Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
 b.ethereum-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source
