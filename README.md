@@ -1,0 +1,1 @@
+![COmputer Science Student Technical Terms](https://images.ctfassets.net/pdf29us7flmy/7L9EiObwAkxMJG7eWWalsx/711ac7138967d2684ff171ee657ff6e7/virtual_memory_shutterstock_407008072_.jpg?w=720&q=100&fm=jpg)
