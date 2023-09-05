@@ -224,6 +224,7 @@ c.**ICO**-An initial coin offering (ICO) is an event where a company sells a new
  68.**kubernetes(K8S)**-kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
  
  69.**TYPES OF COMPUTING**-
+ 
      a.desktop computing-Desktop computing devices include workstations, personal computers, and network computing devices. A workstation or desktop personal computer does not have many resource 
                                restrictions when connected to a fixed network.
                                
@@ -245,6 +246,7 @@ c.**ICO**-An initial coin offering (ICO) is an event where a company sells a new
      g.centralized-computing-Centralized computing is computing done at a central location, using terminals that are attached to a central computer. The computer itself may control all the peripherals directly 
                              (if they are physically connected to the central computer), or they may be attached via a terminal server.
         ![image](https://samanwar.weebly.com/uploads/2/6/7/5/26754689/6265644_orig.jpg)  
+     
         
  70.**DESIGN PATTERN**-A design pattern typically shows relationship and interaction between classes or objects, without specifying final application classes or objects that are involved. 
  
