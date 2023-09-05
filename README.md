@@ -203,4 +203,18 @@ b.**Ethereum**-Ethereum is the community-run technology powering the cryptocurre
 
 c.**ICO**-An initial coin offering (ICO) is an event where a company sells a new cryptocurrency to raise money.
 
-d.**MLM**-Multi-level Marketing (MLM) or network marketing, is individuals selling products to the public - often by word of mouth and direct sales. 
+61.**CADDY**-Caddy is an extensible, cross-platform, open-source web server.
+             Caddy distributions ship with a set of standard modules which include HTTP server, TLS automation, and PKI apps. ***It is best known for its automatic HTTPS features***(SSL certificate).
+62.**Client-Server**-Client-server denotes a relationship between cooperating programs in an application, composed of clients initiating requests for services and servers providing that function or service.
+![IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1200px-Client-server-model.svg.png)
+63.**FORWARD PROXY**-A forward proxy is an intermediary that sits between one or more user devices and the internet.a client request and sending it directly to a web server, a forward proxy server evaluates the request, takes any needed actions, and routes the request to the destination on the client's behalf
+ ![forward proxy](https://s3.shunyafoundation.com/s3/2b37c116cedf3378ed4d66c4c28c7b6de4057de6/proxy-server.png)
+ 64.**REVERSE PROXY**-A reverse proxy server is a type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server. 
+ ![reverse proxy](https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/reverse-proxy-02-1.jpg)
+ 65.**PORT FORWARDING COMMAND**- port forwarding or port mapping is an application of network address translation (NAT) that redirects a communication request from one address and port number combination to another while the packets are traversing a network gateway, such as a router or firewall. 
+ 66.**ON-PREM[On-premises ]**-"On-prem" refers to private data centers that companies house in their own facilities and maintain themselves.
+ 67.**CLUSTER**- a cluster is a group of servers and other resources that act like a single system and enable high availability, load balancing and parallel processing.
+ ![cluster](https://www.researchgate.net/publication/216363652/figure/fig2/AS:305912054075393@1449946525592/Architecture-of-Grid-Cluster-Computing-Environment.png)
+ 68.**kubernetes(K8S)**-kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
+ 69.**TYPES OF COMPUTING**-
+     a.desktop computing-
