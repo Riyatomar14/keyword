@@ -219,9 +219,24 @@ c.**ICO**-An initial coin offering (ICO) is an event where a company sells a new
  66.**ON-PREM[On-premises ]**-"On-prem" refers to private data centers that companies house in their own facilities and maintain themselves.
  
  67.**CLUSTER**- a cluster is a group of servers and other resources that act like a single system and enable high availability, load balancing and parallel processing.
- ![cluster](https://www.researchgate.net/publication/216363652/figure/fig2/AS:305912054075393@1449946525592/Architecture-of-Grid-Cluster-Computing-Environment.png)
+ ![cluster](https://www.esds.co.in/blog/wp-content/uploads/2020/12/5.png)
  
  68.**kubernetes(K8S)**-kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
  
  69.**TYPES OF COMPUTING**-
-     a.desktop computing-
+     a.desktop computing-Desktop computing devices include workstations, personal computers, and network computing devices. A workstation or desktop personal computer does not have many resource 
+                               restrictions when connected to a fixed network.
+                               
+     b.client-server-computing-In client server computing, the clients requests a resource and the server provides that 
+                        resource. A server may serve multiple clients at the same time while a client is in 
+                                      contact with only one server.
+                                      
+     c.cloud-computing-Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the 
+                       user.Large clouds often have functions distributed over multiple locations, each of which is a data center.      
+     d.edge-computing-Edge computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data.
+     e.cluster/distributed-A computer cluster is a set of computers that work together so that they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform 
+                          the same task, controlled and scheduled by software.  
+     f.decentralized-computing-Decentralized computing is the allocation of resources, both hardware and software, to each individual workstation, or office location. In contrast, centralized computing exists 
+                               when the majority of functions are carried out, or obtained from a remote centralized location. Decentralized computing is a trend in modern-day business environments.
+     g.centralized-computing-Centralized computing is computing done at a central location, using terminals that are attached to a central computer. The computer itself may control all the peripherals directly (if they are physically connected to the central computer), or they may be attached via a terminal server.
+
