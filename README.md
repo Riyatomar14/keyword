@@ -246,7 +246,7 @@ g.**centralized-computing**-Centralized computing is computing done at a central
  71.**SYSTEM DESIGN**-Systems design is therefore the process of defining and developing systems to satisfy specified requirements of the user. 
  
  ### FRONT END AND BACK END
-  ![image](https://1drv.ms/f/s!ApR9D994PMhhZxRJ5UO5OgOjqUg?e=i88y2v)
+  ![image](https://1drv.ms/i/s!ApR9D994PMhhgjI0fS7HU6eiy571?e=b04S7R)
   
  72.**FRONT END**-A Front-End in which we develop websites and web applications.
   --front end languages
