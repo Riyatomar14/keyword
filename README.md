@@ -246,7 +246,6 @@ g.**centralized-computing**-Centralized computing is computing done at a central
  71.**SYSTEM DESIGN**-Systems design is therefore the process of defining and developing systems to satisfy specified requirements of the user. 
  
  ### FRONT END AND BACK END
-  ![image](C:\Users\844ri\OneDrive\Pictures\TT.jpg)
   
  72.**FRONT END**-A Front-End in which we develop websites and web applications.
   --front end languages
@@ -266,9 +265,11 @@ g.**centralized-computing**-Centralized computing is computing done at a central
 
 75.**DEVOPS**-![image](https://www.guru99.com/images/2-2017/092917_0812_DevOpsTrain1.png)
 
-dev means devtops and ops means operation
+dev means devtops and ops means operation.
+
 CI/CD-continous integration/continous deployment. now ,this is called **platform engineer** .
 
+76.XML[EXTENSIBLE MARK-UP LANGUAGE]-
        
 
 
