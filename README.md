@@ -246,7 +246,7 @@ g.**centralized-computing**-Centralized computing is computing done at a central
  71.**SYSTEM DESIGN**-Systems design is therefore the process of defining and developing systems to satisfy specified requirements of the user. 
  
  ### FRONT END AND BACK END
-  ![image](https://1drv.ms/i/s!ApR9D994PMhhgjI0fS7HU6eiy571?e=b04S7R)
+  ![image]("C:\Users\844ri\OneDrive\Pictures\TT.jpg")
   
  72.**FRONT END**-A Front-End in which we develop websites and web applications.
   --front end languages
@@ -264,11 +264,10 @@ g.**centralized-computing**-Centralized computing is computing done at a central
    
 74.**full stack**-Full stack development refers to the end-to-end application software development, including the front end and back end.
 
-75.**DEVOPS**-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.guru99.com%2Fimages%2F2-2017%2F092917_0812_DevOpsTrain1.png&tbnid=6deQpZP7H0j0wM&vet=12ahUKEwjbr5TH8_qBAxVL5TgGHbZcAd8QMygBegQIARBT..i&imgrefurl=https%3A%2F%2Fwww.guru99.com%2Fwhat-is-devops.html&docid=TGdOWPIsgXtwaM&w=479&h=265&q=DEVOPS%20IMAge%20dev%20means%20devtop%20and%20ops%20means%20operation&hl=en&ved=2ahUKEwjbr5TH8_qBAxVL5TgGHbZcAd8QMygBegQIARBT)
+75.**DEVOPS**-![image](https://www.guru99.com/images/2-2017/092917_0812_DevOpsTrain1.png)
 dev means devtops and ops means operation
 CI/CD-continous integration/continous deployment. now ,this is called **platform engineer** .
 
-76.
        
- 
+
 
