@@ -246,7 +246,7 @@ g.**centralized-computing**-Centralized computing is computing done at a central
  71.**SYSTEM DESIGN**-Systems design is therefore the process of defining and developing systems to satisfy specified requirements of the user. 
  
  ### FRONT END AND BACK END
-  ![image]("C:\Users\844ri\OneDrive\Pictures\TT.jpg")
+  ![image](C:\Users\844ri\OneDrive\Pictures\TT.jpg)
   
  72.**FRONT END**-A Front-End in which we develop websites and web applications.
   --front end languages
@@ -265,6 +265,7 @@ g.**centralized-computing**-Centralized computing is computing done at a central
 74.**full stack**-Full stack development refers to the end-to-end application software development, including the front end and back end.
 
 75.**DEVOPS**-![image](https://www.guru99.com/images/2-2017/092917_0812_DevOpsTrain1.png)
+
 dev means devtops and ops means operation
 CI/CD-continous integration/continous deployment. now ,this is called **platform engineer** .
 
