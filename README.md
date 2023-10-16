@@ -245,4 +245,30 @@ g.**centralized-computing**-Centralized computing is computing done at a central
  
  71.**SYSTEM DESIGN**-Systems design is therefore the process of defining and developing systems to satisfy specified requirements of the user. 
  
+ ### FRONT END AND BACK END
+  ![image](https://1drv.ms/f/s!ApR9D994PMhhZxRJ5UO5OgOjqUg?e=i88y2v)
+  
+ 72.**FRONT END**-A Front-End in which we develop websites and web applications.
+  --front end languages
+  1.HTML  
+  2.CSS(Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML )
+  3.JAVA SCRIPT
+  
+ 73.**BACK END**-The back end refers to parts of a computer application or a program's code that allow it to operate and that cannot be accessed by a user.
+ --back end languages
+ 1.python
+ 2.go
+ 3.JAVA --Spring Boot is an open-source, microservice-based Java web framework offered by Spring.
+ 4.**framework**-server-side frameworks designed to make tasks easier for developers.
+   example-**DJANGO**-Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. And it is free and open source.
+   
+74.**full stack**-Full stack development refers to the end-to-end application software development, including the front end and back end.
+
+75.**DEVOPS**-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.guru99.com%2Fimages%2F2-2017%2F092917_0812_DevOpsTrain1.png&tbnid=6deQpZP7H0j0wM&vet=12ahUKEwjbr5TH8_qBAxVL5TgGHbZcAd8QMygBegQIARBT..i&imgrefurl=https%3A%2F%2Fwww.guru99.com%2Fwhat-is-devops.html&docid=TGdOWPIsgXtwaM&w=479&h=265&q=DEVOPS%20IMAge%20dev%20means%20devtop%20and%20ops%20means%20operation&hl=en&ved=2ahUKEwjbr5TH8_qBAxVL5TgGHbZcAd8QMygBegQIARBT)
+dev means devtops and ops means operation
+CI/CD-continous integration/continous deployment. now ,this is called **platform engineer** .
+
+76.
+       
+ 
 
