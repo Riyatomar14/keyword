@@ -269,7 +269,29 @@ dev means devtops and ops means operation.
 
 CI/CD-continous integration/continous deployment. now ,this is called **platform engineer** .
 
-76.XML[EXTENSIBLE MARK-UP LANGUAGE]-
+76.**CRYPTOGRAPHY**-Cryptography is a method of protecting information and communications through the use of codes, so that only those for whom the information is intended can read and process.
+![IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Symmetric_key_encryption.svg/250px-Symmetric_key_encryption.svg.png)
+
+77.**TYPES OF CRYPTOGRAPHY**-There are two types of cryptography
+                            1.symmetric
+                            2.asymmetric 
+![image](https://www.thesslstore.com/blog/wp-content/uploads/2017/08/Asymmetric-vs-Symmetric.png)
+
+78.**VPC (VIRTUAL PRIVATE CLOUD)**-A virtual private cloud (VPC) is a secure, isolated private cloud hosted within a public cloud. 
+
+79.**POC**-A proof of concept (POC) is a demonstration of a product in which work is focused on determining whether an idea can be turned into a reality. 
+
+80.**ROUTE 53**-Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet applications running on AWS or on-premises.
+
+81.**S3**-Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
+
+82.**IAM**-AWS Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources. With IAM, you can centrally manage permissions that control which AWS resources users can access.
+
+83.**CLOUD WATCH**-Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. The CloudWatch home page automatically displays metrics about every AWS service you use.With CloudWatch, you gain system-wide visibility into resource utilization, application performance, and operational health.
+
+84.**KVM**-KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.
+
+85
        
 
 
