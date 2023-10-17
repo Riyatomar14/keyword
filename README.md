@@ -283,7 +283,7 @@ CI/CD-continous integration/continous deployment. now ,this is called **platform
 
 80.**ROUTE 53**-Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet applications running on AWS or on-premises.
 
-81.**S3**-Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
+81.**S3**(bucket)-Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
 
 82.**IAM**-AWS Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources. With IAM, you can centrally manage permissions that control which AWS resources users can access.
 
@@ -291,7 +291,53 @@ CI/CD-continous integration/continous deployment. now ,this is called **platform
 
 84.**KVM**-KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.
 
-85
-       
+85.**XEN**-Xen is a free and open-source type-1 hypervisor, providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
+
+86.**proxmox**-Proxmox Virtual Environment is an open source server virtualization management solution based on QEMU/KVM and LXC. You can manage virtual machines, containers, highly available clusters, storage and networks with an integrated, easy-to-use web interface or via CLI.
+
+87.**web assembly**(WASM)-WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.     
+
+89.**HYPERSCALERS**-The term "hyperscale" refers to the ability of these companies to rapidly scale their infrastructure to accommodate the growing demands of their users.FOR EXAMPLE -**YOTTA** is a data centre open recently in noida which having mutiple servers and use to hyperscale the company
+
+90.**hyperconverse(HCI)**-Hyperconverged infrastructure (HCI) is a software-defined, unified system that combines all the elements of a traditional data center: storage, computation, networking and management.
+
+91.**IBM**-IBM (International Business Machines Corporation) is a multinational technology company headquartered in Armonk, N.Y.
+
+92.**WEB-SCRAPING**-Web scraping uses intelligence automation methods to get thousands or even millions of data sets in a smaller amount of time. Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.**Many large websites, like Google, Twitter, Facebook, StackOverflow, etc. have API’s that allow you to access their data in a structured format.**
+![IMAGE](https://www.webharvy.com/images/web%20scraping%20uses.png)
+
+93.**POSTMAN APPLICATION**-Postman: Postman is an API(application programming interface) development tool which helps to build, test and modify APIs.
+
+94.**REST API**-Representational State Transfer (REST) is an architectural style that defines a set of constraints to be used for creating web services. REST API is a way of accessing web services in a simple and flexible way without having any processing.
+
+95.**CRUD(CREATE READ UPDATE DELETE)**-![](https://www.atatus.com/glossary/content/images/2021/07/CRUD.jpeg)
+
+96.**GRPC(graphic Remote Procedure Call )**-gRPC is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services.gRPC uses Protobuf, which is not human readable and **Mainly used to scale API's**.
+
+97.**GRAPH QL**- GraphQL uses human-readable formats such as JSON or XML. GraphQL is a language for querying data and **mainly used to scale API'S**.
+
+98.**YAML**-YAML stands for yet another markup language or YAML ain't markup language (a recursive acronym), which emphasizes that YAML is for data, not documents. YAML is a popular programming language because it is designed to be easy to read and understand.
+
+99.**JSON**-JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate.
+
+100.**EBPF**-Extended BerKeley Packet Filter (eBPF) addresses both these issues. eBPF is a kernel technology (fully available since Linux 4.4). It lets programs run without needing to add additional modules or modify the kernel source code.
+
+101.**CNI**-CNI (Container Network Interface), a Cloud Native Computing Foundation project, consists of a specification and libraries for writing plugins to configure network interfaces in Linux and Windows containers, along with a number of supported plugins.EX:FUNNEL
+
+102.**CNCF**-The Cloud Native Computing Foundation (CNCF) is an open source software foundation that promotes the adoption of cloud-native computing.
+
+103.**OVERLAY**- overlaying means "the process of transferring a block of program code or other data into main memory, replacing what is already stored". 
+
+104.**TUN**-TUN, short for network TUNnel, is a virtual interface that implements a software-based abstraction of a network by emulating the behavior of physical devices like Ethernet or Wi-Fi interface cards.It operates on layer 3 of the OSI model, handling the transmission and reception of IP packets.
+
+105.**OVS**-Open vSwitch, sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
+
+106.**ARP**-Address Resolution Protocol (ARP) is a protocol or procedure that connects an ever-changing Internet Protocol (IP) address to a fixed physical machine address, also known as a media access control (MAC) address, in a local-area network (LAN).
+![IMAGE](https://www.fourfaith.com/uploadfile/2022/0808/20220808105025195.jpg)
+
+107.**REV ARP**-The Reverse Address Resolution Protocol (RARP) is an obsolete computer communication protocol used by a client computer to request its Internet Protocol (IPv4) address from a computer network, when all it has available is its link layer or hardware address, such as a MAC address. 
+![IMAGE](https://networklessons.com/wp-content/uploads/2018/10/reverse-arp-request.png)
+
+
 
 
