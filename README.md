@@ -147,7 +147,7 @@ SSH[secure shell]-22
 ![von newman artichecture diagram](https://ars.els-cdn.com/content/image/3-s2.0-B9780127345307500088-f08-05-9780127345307.gif)
 
 48.**Data Structure** 
-![flow chart](https://scontent.fdel10-1.fna.fbcdn.net/v/t1.6435-9/189964934_1588261171367985_5735720792545224260_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9267fe&_nc_ohc=4D3y3NUKWQQAX9nRkEm&_nc_ht=scontent.fdel10-1.fna&oh=00_AfCvhrWQBzG4U7LDgPV5sc2SnkACPte5QuYNBzKprfzpDQ&oe=651B6DD0)
+![flow chart](https://www.tutorialspoint.com/data_structures_algorithms/images/data_structures_and_types.jpg)
 
 49.**OOPS[object-oriented programming system]**--> *C* + *OOPS*=**C++**.</br>
 
@@ -336,7 +336,7 @@ CI/CD-continous integration/continous deployment. now ,this is called **platform
 
 102.**BGP**-BGP is responsible for looking at all of the available paths that data could travel and picking the best route, which usually means hopping between autonomous systems.
 
-103.**LIBVIRT**-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLibvirt&psig=AOvVaw3FaGQy__V8qWKsB30h6Dfv&ust=1697691727378000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDL5dTo_oEDFQAAAAAdAAAAABAE)
+103.**LIBVIRT**-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Libvirt_support.svg/300px-Libvirt_support.svg.png)
 **User-mode Linux (UML)**– paravirtualized kernel
 
  **ovirt**-oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.
