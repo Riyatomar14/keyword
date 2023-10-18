@@ -60,7 +60,7 @@ like JIO-ipv6, airtel-ipv4.
 
 15.**DUAL BOOT**-2 operating system 
 
-16.**HYPERVISOR** -A program used to run and manage two or more virtual machine.
+16.**HYPERVISOR** -A program used to run and manage two or more virtual machine.hypervisor for Windows by Microsoft
 There are two type of hypervisor-
 a.type-1</br>
 b.type-2
@@ -322,21 +322,58 @@ CI/CD-continous integration/continous deployment. now ,this is called **platform
 
 100.**EBPF**-Extended BerKeley Packet Filter (eBPF) addresses both these issues. eBPF is a kernel technology (fully available since Linux 4.4). It lets programs run without needing to add additional modules or modify the kernel source code.
 
-101.**CNI**-CNI (Container Network Interface), a Cloud Native Computing Foundation project, consists of a specification and libraries for writing plugins to configure network interfaces in Linux and Windows containers, along with a number of supported plugins.EX:FUNNEL
+101.**CNI**-CNI (Container Network Interface), a Cloud Native Computing Foundation project, consists of a specification and libraries for writing plugins to configure network interfaces in Linux and Windows containers, along with a number of supported plugins.
 
-102.**CNCF**-The Cloud Native Computing Foundation (CNCF) is an open source software foundation that promotes the adoption of cloud-native computing.
+**Calico**: Calico is a highly scalable CNI plugin that provides network policy enforcement and supports various networking modes, including BGP peering for routing.
 
-103.**OVERLAY**- overlaying means "the process of transferring a block of program code or other data into main memory, replacing what is already stored". 
+**Flannel**: Flannel is a simple and lightweight CNI plugin that can be used for both overlay and host-gateway networking. It’s easy to set up and configure.
 
-104.**TUN**-TUN, short for network TUNnel, is a virtual interface that implements a software-based abstraction of a network by emulating the behavior of physical devices like Ethernet or Wi-Fi interface cards.It operates on layer 3 of the OSI model, handling the transmission and reception of IP packets.
+**Cilium**: Cilium is designed for modern, high-performance networking and security in Kubernetes. It uses eBPF (extended Berkeley Packet Filter) for fine-grained network policies.
 
-105.**OVS**-Open vSwitch, sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
+**VPP (Vector Packet Processing) CNI**: VPP is an open-source networking stack that can be used as a CNI plugin to achieve high-performance networking.
 
-106.**ARP**-Address Resolution Protocol (ARP) is a protocol or procedure that connects an ever-changing Internet Protocol (IP) address to a fixed physical machine address, also known as a media access control (MAC) address, in a local-area network (LAN).
+**RKT**-RKT (pronounced as “rocket”) is a CLI for running app containers on a Linux platform. Its main purpose is to be secure, fast, and composable, and therefore it is designed as secure, composable, and standards-based.
+
+102.**BGP**-BGP is responsible for looking at all of the available paths that data could travel and picking the best route, which usually means hopping between autonomous systems.
+
+103.**LIBVIRT**-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLibvirt&psig=AOvVaw3FaGQy__V8qWKsB30h6Dfv&ust=1697691727378000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDL5dTo_oEDFQAAAAAdAAAAABAE)
+**User-mode Linux (UML)**– paravirtualized kernel
+
+ **ovirt**-oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.
+
+ **kubevirt**- Thus KubeVirt delivers three things to provide the new functionality:
+
+#Additional types - so called Custom Resource Definition (CRD) - are added to the Kubernetes API
+
+#Additional controllers for cluster wide logic associated with these new types
+
+#Additional daemons for node specific logic associated with new types
+
+104.**CRD**-A custom resource is an object that extends the Kubernetes API or allows you to introduce your own API into a project or a cluster. A custom resource definition (CRD) file defines your own object kinds and lets the API Server handle the entire lifecycle.
+
+105.**CNCF**-The Cloud Native Computing Foundation (CNCF) is an open source software foundation that promotes the adoption of cloud-native computing.
+
+106.**OVERLAY**- overlaying means "the process of transferring a block of program code or other data into main memory, replacing what is already stored". 
+
+107.**TUN**-TUN, short for network TUNnel, is a virtual interface that implements a software-based abstraction of a network by emulating the behavior of physical devices like Ethernet or Wi-Fi interface cards.It operates on layer 3 of the OSI model, handling the transmission and reception of IP packets.
+
+108.**OVS**-Open vSwitch, sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
+
+109.**ARP**-Address Resolution Protocol (ARP) is a protocol or procedure that connects an ever-changing Internet Protocol (IP) address to a fixed physical machine address, also known as a media access control (MAC) address, in a local-area network (LAN).
 ![IMAGE](https://www.fourfaith.com/uploadfile/2022/0808/20220808105025195.jpg)
 
-107.**REV ARP**-The Reverse Address Resolution Protocol (RARP) is an obsolete computer communication protocol used by a client computer to request its Internet Protocol (IPv4) address from a computer network, when all it has available is its link layer or hardware address, such as a MAC address. 
+110.**REV ARP**-The Reverse Address Resolution Protocol (RARP) is an obsolete computer communication protocol used by a client computer to request its Internet Protocol (IPv4) address from a computer network, when all it has available is its link layer or hardware address, such as a MAC address. 
 ![IMAGE](https://networklessons.com/wp-content/uploads/2018/10/reverse-arp-request.png)
+
+111.**ESM**-Enterprise Service Management – often referred to as ESM, is the extension of IT Service Management (ITSM) principles to enable better service delivery for business teams like Human Resources (HR), legal, facilities, marketing, and finance.
+
+112.**ETCD**-etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. It gracefully handles leader elections during network partitions and can tolerate machine failure, even in the leader node.
+
+113.**RAFT**-Raft is a consensus algorithm designed as an alternative to the Paxos family of algorithms. It was meant to be more understandable than Paxos by means of separation of logic, but it is also formally proven safe and offers some additional features.
+
+114.**CEPH**-Ceph is an open source software-defined storage solution designed to address the block, file and object storage needs of modern enterprises.
+
+
 
 
 
