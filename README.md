@@ -337,6 +337,7 @@ CI/CD-continous integration/continous deployment. now ,this is called **platform
 102.**BGP**-BGP is responsible for looking at all of the available paths that data could travel and picking the best route, which usually means hopping between autonomous systems.
 
 103.**LIBVIRT**-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Libvirt_support.svg/300px-Libvirt_support.svg.png)
+
 **User-mode Linux (UML)**– paravirtualized kernel
 
  **ovirt**-oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.
@@ -372,6 +373,9 @@ CI/CD-continous integration/continous deployment. now ,this is called **platform
 113.**RAFT**-Raft is a consensus algorithm designed as an alternative to the Paxos family of algorithms. It was meant to be more understandable than Paxos by means of separation of logic, but it is also formally proven safe and offers some additional features.
 
 114.**CEPH**-Ceph is an open source software-defined storage solution designed to address the block, file and object storage needs of modern enterprises.
+
+115.**TERRAFORM**- Terraform is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share. You can then use a consistent workflow to provision and manage all of your infrastructure throughout its lifecycle. Terraform can manage low-level components like compute, storage, and networking resources, as well as high-level components like DNS entries and SaaS features.
+
 
 
 
