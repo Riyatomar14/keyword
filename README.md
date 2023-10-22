@@ -213,7 +213,7 @@ a.**SSL CERTIFICATE**-An SSL certificate is a digital certificate that authentic
 
 b.**NAT**-Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.
 
-59.**BLOCKCHAIN**-
+59.**BLOCKCHAIN**-a system in which a record of transactions, especially those made in a cryptocurrency, is maintained across computers that are linked in a peer-to-peer network.
 
 a.It is a advanced database mechanism that allows transparent information sharing with in a business network.
 
@@ -221,7 +221,7 @@ b.It made by **SANTOSHI NAKAMOTO** in 2008.
 
 60.**CURRENCY**-
 
-a.**Bitcoin**-it is a innovative payment network and a new kind of money.Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
+a.**Bitcoin**-it is a innovative payment network and a new kind of money. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
 
 b.**Ethereum**-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source.
 
