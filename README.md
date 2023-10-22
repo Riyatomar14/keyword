@@ -33,10 +33,15 @@ a.Windows
 b.MacOS
 
 8.**LINUX**-It is open source operting system made by linus torvalds.Came under UNIX[uniplexed information computer sysytem]. 
+
 LINUX has two types of family-
+
 a.Debian-It contain OPERATING SYSTEM like UBUNTU[open source,developed by CANONICAL],KALI LINUX.
+
 b.RHEL[red hat enterprise linux]-It contain OPERATING SYSTEM likre centOS,oracle,fedora,red hat.
+
 Packing manager: Yum 
+
 It is owned by IBM[international business machine] at 40 billon dollor.
 
 9.**NETWORK**
