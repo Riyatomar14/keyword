@@ -173,13 +173,13 @@ a.class b.object c.reference d.construction </br>
 51.**TYPES OF OOPS**</br>
 ![diagram](https://static.javatpoint.com/interview/images/oops-interview-questions-q4.png)</br>
 
-# **encapsulation** (or OOP Encapsulation) refers to the bundling of data, along with the methods that operate on that data, into a single unit.Encapsulation is a way to achieve “information hiding” so, you don’t “need to know the internal workings of the mobile phone to operate” with it.
+**encapsulation** (or OOP Encapsulation) refers to the bundling of data, along with the methods that operate on that data, into a single unit.Encapsulation is a way to achieve “information hiding” so, you don’t “need to know the internal workings of the mobile phone to operate” with it.
 
-# **abstruction**-Abstraction on the other side can be explained as the capability to use the same interface for different objects. Different implementations of the same interface can exist. Details are hidden by encapsulation.
+**abstruction**-Abstraction on the other side can be explained as the capability to use the same interface for different objects. Different implementations of the same interface can exist. Details are hidden by encapsulation.
 
-# **Polymorphism**-Polymorphism is a concept, which allows us to redefine the way something works, by either changing how it is done or by changing the parts used to get it done. 
+**Polymorphism**-Polymorphism is a concept, which allows us to redefine the way something works, by either changing how it is done or by changing the parts used to get it done. 
 
-# **Inheritance**-Inheritance is a feature of object-oriented programming that allows code reusability when a class includes property of another class. Considering HumanBeing a class, that has properties like hands, legs, eyes, mouth, etc, and functions like walk, talk, eat, see, etc.**
+**Inheritance**-Inheritance is a feature of object-oriented programming that allows code reusability when a class includes property of another class. Considering HumanBeing a class, that has properties like hands, legs, eyes, mouth, etc, and functions like walk, talk, eat, see, etc.**
 
 52.**IDE**-INTEGRATED DEVELOPMENT ENVIROMENT</br>
 
