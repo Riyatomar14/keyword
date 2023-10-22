@@ -6,6 +6,7 @@
            1. Computation  2.Storage  3. Network
            
 2.**SOME TERMS** -
+
 CPU-central processing unit 
 
 GPU-graphic processing unit 
