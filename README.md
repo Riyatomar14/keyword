@@ -7,8 +7,11 @@
            
 2.**SOME TERMS** -
 CPU-central processing unit 
+
 GPU-graphic processing unit 
+
 DPU-data processing unit
+
 TPU-tensor processing unit
 
 3.**CISC[complex instruction set computer]**--closed source like intel and AMD(advanced micro devices).It develop X-86 series under ISA[intruction set arichtecture] in 1978. 
