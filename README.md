@@ -145,14 +145,13 @@ SSH[secure shell]-22
  
 39. **Stack** - Stack is a linear data structure that follows a particular order in which the operation are peroformed. LIFO(Last In First Output).
  
-40. **IAM**- Identity and access management
+40. **IAM(Identity and access management)-centrally manage permissions that control which AWS resources users can access.
 
 41.**nginx** - proxy server
 
-42.**apache**- client server - uses httpd(d stands for dameon: continuously runs in background) that creates a pool of child processes or threads to handle requestes.
+ 42.**proxy server**-A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a private network. It is a server, referred to as an “intermediary” because it goes between end-users and the web pages they visit online.
 
-43.**ASICSs**- (Applications - specfic integrated circuits) are computer chips that combine sveral different circuits or all one chip - Its a "System-on-a-chip"
- (SoC) design.
+43.**apache**- client server - uses httpd(d stands for dameon: continuously runs in background) that creates a pool of child processes or threads to handle requestes.
  
 44.**UDP**- User datagram protocol, is a commuincation protocol used acrros the internet for especially time- sensitive transimission
 
