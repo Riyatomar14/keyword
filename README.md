@@ -159,8 +159,8 @@ SSH[secure shell]-22
 
 46.**Load balancer**- It is the method of distributing network traffic eqaully across a pull of resources that support an application.
 
-47.Von Neumann architecture and harvard architecture</br>
-![von newman artichecture diagram](https://ars.els-cdn.com/content/image/3-s2.0-B9780127345307500088-f08-05-9780127345307.gif)
+47.Von Neumann architecture and harvard architecture -The term "von Neumann architecture" has evolved to refer to any stored-program computer in which an instruction fetch and a data operation cannot occur at the same time  </br>
+![von newman artichecture diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/450px-Von_Neumann_Architecture.svg.png)
 
 48.**Data Structure** 
 ![flow chart](https://www.tutorialspoint.com/data_structures_algorithms/images/data_structures_and_types.jpg)
