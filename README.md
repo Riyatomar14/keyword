@@ -15,24 +15,26 @@ DPU-data processing unit
 
 TPU-tensor processing unit
 
-3.**CISC[complex instruction set computer]**--closed source like intel and AMD(advanced micro devices).It develop X-86 series under ISA[intruction set arichtecture] in 1978. 
+3.**SOC(SYSTEM ON A CHIP)**-A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. As the name suggests, it is an entire system fabricated on a silicon chip. The beauty of an SoC is that it integrates all the components on a single substrate. In semiconductors, a substrate is a thin film of silicon used to fabricate integrated circuits. In contrast to the traditional motherboard, SoC integrates the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
 
-4.**RISC[reduced instruction set computer]**--close source like ARM[Adavnce risc machine] .It has specific intruction,very fast and efficient.
+4.**CISC[complex instruction set computer]**--closed source like intel and AMD(advanced micro devices).It develop X-86 series under ISA[intruction set arichtecture] in 1978. 
 
-5.**RISC-V**--it is based on RISC principles and develop in 2023 and which is a free open source.  
+5.**RISC[reduced instruction set computer]**--close source like ARM[Adavnce risc machine] .It has specific intruction,very fast and efficient.
 
-6.**KERNEL**--that manages operations between computer and hardware.
+6.**RISC-V**--it is based on RISC principles and develop in 2023 and which is a free open source. it also have a project called **SHAKTI**.
+
+7.**KERNEL**--that manages operations between computer and hardware.
 
 ![kernel and user space Diagram](https://www.lakesidesoftware.com/wp-content/uploads/2021/03/kernel-mode-vs-user-mode-differences.png)
 
 ### kernel programing language-
 C,C++,rust
 
-7.**OPERATING SYSTEM**-
+8.**OPERATING SYSTEM**-
 a.Windows
 b.MacOS
 
-8.**LINUX**-It is open source operting system made by linus torvalds.Came under UNIX[uniplexed information computer sysytem]. 
+9.**LINUX**-It is open source operting system made by linus torvalds.Came under UNIX[uniplexed information computer sysytem]. 
 
 LINUX has two types of family-
 
@@ -44,62 +46,70 @@ Packing manager: Yum
 
 It is owned by IBM[international business machine] at 40 billon dollor.
 
-9.**NETWORK**
+10.**NETWORK**
 There are two types of network-
 1.Internet[(WAN-wide area network) and it is a public network]
 2.Intranet[(LAN-local area network) and it is a private network]
 
-10.**CLOUD COMPUTING**
+11.**CLOUD COMPUTING**
 CLOUD means internet which is a public network[distributed over multiple location].
 a.AWS[amazon web services]-by amazon
 b.AZURE-by microsoft
 c.GCP[Google Cloud Platform]-by goggle
 
-11.**Ip address[internet protocol]**-a unique address which identify the device on internet or on local internet .There are three types of ip address-</br>
+12.**Ip address[internet protocol]**-a unique address which identify the device on internet or on local internet .There are three types of ip address-</br>
 *Private*-ex:starts with 10. ,172. ,192. . </br>
 *Public*- ex:starts with 11.. </br>
 *Local*-ex:starts with 127.0.00[a specific number]</br>
 like JIO-ipv6, airtel-ipv4.
 
-12.**DNS[domain name server]**- turns domain names intoIP Address. ex:google.com
+13.**DNS[domain name server]**- turns domain names into IP Address. ex:google.com
 
-13.**Routing**-the process of path selection in any network.
+14.**Routing**-the process of path selection in any network.
 
-14.**BARE METAL** -fresh server[which has no operating sysytem]
+15.**BARE METAL** -fresh server[which has no operating sysytem]
 
-15.**DUAL BOOT**-2 operating system 
+16.**DUAL BOOT**-2 operating system 
 
-16.**HYPERVISOR** -A program used to run and manage two or more virtual machine.hypervisor for Windows by Microsoft
+17.**HYPERVISOR** -A program used to run and manage two or more virtual machine.hypervisor for Windows by Microsoft
 There are two type of hypervisor-
 a.type-1</br>
 b.type-2
 
-17.**type-1** -- there is no need to install operating system.
+18.**type-1** -- there is no need to install operating system.
 Bare metal-->hypervisor type-1-->VM1,VM2,VM3..
 
-18.**type2**--there is a need to install operating system .
+19.**type2**--there is a need to install operating system .
 bare metal-->install operating system-->VM1,VM2,VM3-->type 2[VM1,VM2,VM3..,Virtual box,work station,VM Ware]
 
-19.**VM WARE**-it is a company of cloud computing and a open source(oracle),owned by broad com(62 billon$)
+20.**VM WARE(virtual machine)**-it is a company of cloud computing and a open source(oracle),owned by broad com(62 billon$)
 
 20.**GPPR**--general data protection regulation
 
 21.**FAANG,MAANG,MERN**
 
-22.**FPGA**-field programmable gate array
+22.**FPGA(field programmable gate array)**-A field-programmable gate array is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.
+
+23.**ASIC'S(Application-specific integrated circuit)**- It is an integrated circuit (IC) chip customized for a particular use, rather than intended for general-purpose use, such as a chip designed to run in a digital voice recorder or a high-efficiency video codec.
+
+24.**Photonic**-Photonics also includes research on photonic systems. 
+
+#*QRNG*-Quantum random number generators (QRNGs) are a special case of TRNG (  True random number generators ), that generate randomness by measuring quantum processes, which are, by nature non-deterministic.
+
+#*PRNG( Pseudo random number generators )*-computer follows the given instructions blindly and is therefore completely predictable. It is not possible to generate truly random numbers from deterministic thing like computers so PRNG is a technique developed to generate random numbers using a computer(**RANDOMNESS**)
 
 23.Company only make silicon chip
 a.*taiwan* b.*intel* c.*samsung*
 
-24.**Cryptography**-secure information and communication
+25.**Cryptography**-secure information and communication
 
-25.**post-cryptography**-it ia technology which is trend now a day .
+26.**post-cryptography**-it ia technology which is trend now a day .
 
-26.**https**-s means secure socket layer(SSL) 
+27.**https**-s means secure socket layer(SSL) 
 
-27.**SSL[secure socket layer]**-ip address[layer3]+ port number[layer4]
+28.**SSL[secure socket layer]**-ip address[layer3]+ port number[layer4]
 
-28.**Port number**-a way to indentify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.
+29.**Port number**-a way to indentify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.
 eg:</br>
 HTTP-80</br>
 HTTPS-443</br>
@@ -108,7 +118,7 @@ SMTP-25</br>
 TELMET-23</br>
 SSH[secure shell]-22
 
-29.**SEVEN LAYER OF OSI[OPEN SYSTEM INTERCONNECTION]**
+30.**SEVEN LAYER OF OSI[OPEN SYSTEM INTERCONNECTION]**
 ~layer7-application/protocol</br>
 ~layer6-presentation</br>
 ~layer5-cryptography</br>
@@ -117,17 +127,15 @@ SSH[secure shell]-22
 ~layer2-hardware address-NIC,MAC</br>
 ~layer1-digital(1 and 0)
 
-30.**TCP/IP(TRANSMISION CONTROL PROTOCOL)**-layer5+layer6+layer7
+31.**TCP/IP(TRANSMISION CONTROL PROTOCOL)**-layer5+layer6+layer7
 
-31.**URL**-uniform resource locator
+32.**URL**-uniform resource locator
 
-32.**cache**-it is a high-speed data storage layer which stores a subset of data [temporary memory]
+33.**cache**-it is a high-speed data storage layer which stores a subset of data [temporary memory]
 
-33.**Switch** - connects device in network to each other, enabling them to each other, enabling them to talk by exchanging data packets.
+34.**Switch** - connects device in network to each other, enabling them to each other, enabling them to talk by exchanging data packets.
 
-34.**Virtual Machine** - created by using Hypervisor
-
-35. **FPGA** - Field Progarmming Gate Arrays - Configurede after manufacturing
+35.**Virtual Machine** - created by using Hyperviser
     
 36. **Protocol** - It is a standardized set of rules for formatting and processing data.
   
