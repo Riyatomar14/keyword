@@ -153,7 +153,7 @@ SSH[secure shell]-22
 
 43.**apache**- client server - uses httpd(d stands for dameon: continuously runs in background) that creates a pool of child processes or threads to handle requestes.
  
-44.**UDP**- User datagram protocol, is a commuincation protocol used acrros the internet for especially time- sensitive transimission
+44.**UDP**- User datagram protocol, is a commuincation protocol used across the internet for especially time- sensitive transimission
 
 45.**Packets**- Its a small segment of a large message. Data send over computer networks, such as internt, is divided into packets, recombined by client computer
 
