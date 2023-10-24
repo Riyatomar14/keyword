@@ -439,7 +439,9 @@ CI/CD-continous integration/continous deployment. now ,this is called **platform
 
 124.**DHCP**-DHCP (Dynamic Host Configuration Protocol) is a network management protocol used to dynamically assign an IP address to any device, or node, on a network so it can communicate using IP.
 
-125.**Rancher**-
+125.**Rancher**-Rancher is used to provision and manage Kubernetes clusters.
+
+126.**green fields vs brownfields application**-A greenfield project is a new project that starts from scratch. Whereas, a brownfield project has already gotten worked on by people. 
 
 
 
