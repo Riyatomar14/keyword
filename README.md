@@ -34,7 +34,7 @@ C,C++,rust
 a.Windows
 b.MacOS
 
-9.**LINUX**-It is open source operting system made by linus torvalds.Came under UNIX[uniplexed information computer sysytem]. 
+9.**LINUX**-It is open source operting system made by linus torvalds.Came under UNIX[uniplexed information computer system]. 
 
 LINUX has two types of family-
 
