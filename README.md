@@ -68,7 +68,7 @@ like JIO-ipv6, airtel-ipv4.
 
 14.**Routing**-the process of path selection in any network.
 
-15.**BARE METAL** -fresh server[which has no operating sysytem]
+15.**BARE METAL** -fresh server[which has no operating system]
 
 16.**DUAL BOOT**-2 operating system 
 
