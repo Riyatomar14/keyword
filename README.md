@@ -108,9 +108,9 @@ bare metal-->install operating system-->VM1,VM2,VM3-->type 2[VM1,VM2,VM3..,Virtu
 
 a.*taiwan*     b.*intel*     c.*samsung*
 
-27.**Cryptography**-secure information and communication
+27.**Cryptography**-The prefix “crypt” means “hidden” and suffix “graphy” means “writing”.it is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it.
 
-28.**post-cryptography**-it ia technology which is trend now a day .
+28.**post-cryptography**-it ia technology which is trend now a day .Post-quantum cryptography aims to develop new cryptographic algorithms that are secure against attacks from both classical and quantum computers. 
 
 29.**https**-s means secure socket layer(SSL) 
 
