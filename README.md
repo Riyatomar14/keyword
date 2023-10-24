@@ -102,10 +102,11 @@ bare metal-->install operating system-->VM1,VM2,VM3-->type 2[VM1,VM2,VM3..,Virtu
 
 #*QRNG*-Quantum random number generators (QRNGs) are a special case of TRNG (  True random number generators ), that generate randomness by measuring quantum processes, which are, by nature non-deterministic.
 
-#*PRNG( Pseudo random number generators )*-computer follows the given instructions blindly and is therefore completely predictable. It is not possible to generate truly random numbers from deterministic thing like computers so PRNG is a technique developed to generate random numbers using a computer(**RANDOMNESS**)
+#*PRNG( Pseudo random number generators )*-computer follows the given instructions blindly and is therefore completely predictable. It is not possible to generate truly random numbers from deterministic thing like computers so PRNG is a technique developed to generate random numbers using a computer(**RANDOMNESS**).A pseudo-random number generator (PRNG) is a program written for, and used in, probability and statistics applications when large quantities of random digits are needed. 
 
-26.Company only make silicon chip
-a.*taiwan* b.*intel* c.*samsung*
+26.Company only make silicon chip(SoCs)
+
+a.*taiwan*     b.*intel*     c.*samsung*
 
 27.**Cryptography**-secure information and communication
 
