@@ -94,7 +94,7 @@ bare metal-->install operating system-->VM1,VM2,VM3-->type 2[VM1,VM2,VM3..,Virtu
 
  MERN stands for MongoDB, Express, React, Node
 
-23.**FPGA(field programmable gate array)**-A field-programmable gate array is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.
+23.**FPGA(field programmable gate array)**-A field-programmable gate array is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.This feature sets FPGAs apart from Application Specific Integrated Circuits (ASICs). The latter is explicitly made for a given goal, which one cannot change later. 
 
 24.**ASIC'S(Application-specific integrated circuit)**- It is an integrated circuit (IC) chip customized for a particular use, rather than intended for general-purpose use, such as a chip designed to run in a digital voice recorder or a high-efficiency video codec.
 
