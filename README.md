@@ -148,7 +148,7 @@ SSH[secure shell]-22
 
   **NTP**-The Network Time Protocol (NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks. In operation since before 1985, NTP is one of the oldest Internet protocols in current use. 
 
-35.**URL**-uniform resource locator
+35.**URL**-(uniform resource locator) is a unique identifier used to locate a resource on the Internet. It is also referred to as a web address. 
 
 36.**cache**-it is a high-speed data storage layer which stores a subset of data [temporary memory]
 
