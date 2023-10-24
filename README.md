@@ -170,7 +170,7 @@ SSH[secure shell]-22
 
  45.**proxy server**-A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a private network. It is a server, referred to as an “intermediary” because it goes between end-users and the web pages they visit online.
 
-46.**apache**- client server - uses httpd(d stands for dameon: continuously runs in background) that creates a pool of child processes or threads to handle requestes.
+46.**apache**- client server - uses httpd(d stands for dameon: continuously runs in background) that creates a pool of child processes or threads to handle requestes. The purpose of the daemon is to respond to network, hardware, or system requests to perform certain tasks.
  
 47.**UDP**- User datagram protocol, is a commuincation protocol used across the internet for especially time- sensitive transimission
 
@@ -178,7 +178,7 @@ SSH[secure shell]-22
 
 49.**Load balancer**- It is the method of distributing network traffic eqaully across a pull of resources that support an application.
 
-50.Von Neumann architecture and harvard architecture -The term "von Neumann architecture" has evolved to refer to any stored-program computer in which an instruction fetch and a data operation cannot occur at the same time  </br>
+50.**Von Neumann architecture and harvard architecture** -The term "von Neumann architecture" has evolved to refer to any stored-program computer in which an instruction fetch and a data operation cannot occur at the same time  </br>
 ![von newman artichecture diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/450px-Von_Neumann_Architecture.svg.png)
 
 51.**Data Structure** 
