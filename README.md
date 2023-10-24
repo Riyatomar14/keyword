@@ -138,8 +138,8 @@ SSH[secure shell]-22
 
 34.**eth0(Ethernet adapter)**-(physical NIC) use to in and out the data packages 
 
-  **DPDK(data plane development kit)**- it is an open source software project managed by the Linux Foundation. It provides a set of data plane libraries and network interface controller polling-mode drivers for offloading TCP packet processing from the operating system kernel to processes running in user space. 
-
+  **DPDK(data plane development kit)**- it is an open source software project managed by the Linux Foundation. It provides a set of data plane libraries and network interface controller polling-mode drivers for offloading TCP packet processing from the operating system kernel to processes running in user space. **DPDK facilitates the quicker expansion of high-speed data packet networking applications.**
+  
   **SR-IOV(single root)**-In virtualization, single root input/output virtualization (SR-IOV) is a specification that allows the isolation of PCI Express resources for manageability and performance reasons.
   
   **CNDP**-Cloud Native Data Plane (CNDP) is a collection of user space libraries to accelerate packet processing for cloud applications using AF_XDP sockets as the primary I/O..
