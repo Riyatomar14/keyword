@@ -431,6 +431,15 @@ CI/CD-continous integration/continous deployment. now ,this is called **platform
 
 120.**GRAPHINE CS**-For privacy and security
 
+121.**hcl**-A hardware compatibility list (HCL) is a list of computer hardware (typically including many types of peripheral devices) that is compatible with a particular operating system or device management software.
+
+122.**TAP**-A network tap is a system that monitors events on a local network. A tap is typically a dedicated hardware device, which provides a way to access the data flowing across a computer network.
+
+123.**cockroachDB**-CockroachDB replicates your data for availability and guarantees consistency between replicas using the Raft consensus algorithm, a popular alternative to Paxos. 
+
+124.**DHCP**-DHCP (Dynamic Host Configuration Protocol) is a network management protocol used to dynamically assign an IP address to any device, or node, on a network so it can communicate using IP.
+
+125.**Rancher**-
 
 
 
