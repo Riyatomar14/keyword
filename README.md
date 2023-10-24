@@ -164,7 +164,7 @@ SSH[secure shell]-22
  
 42. **Stack** - Stack is a linear data structure that follows a particular order in which the operation are peroformed. LIFO(Last In First Output).
  
-43. **IAM(Identity and access management)-centrally manage permissions that control which AWS resources users can access.
+43. **IAM(Identity and access management)**-centrally manage permissions that control which AWS resources users can access.
 
 44.**nginx** - proxy server
 
