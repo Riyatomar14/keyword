@@ -136,7 +136,7 @@ SSH[secure shell]-22
 
 33.**TCP/IP(TRANSMISION CONTROL PROTOCOL)**-layer5+layer6+layer7
 
-34.**ech0**-physical NIC
+34.**eth0(Ethernet adapter)**-(physical NIC) use to in and out the data packages 
 
   **DPDK(data plane development kit)**- it is an open source software project managed by the Linux Foundation. It provides a set of data plane libraries and network interface controller polling-mode drivers for offloading TCP packet processing from the operating system kernel to processes running in user space. 
 
