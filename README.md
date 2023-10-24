@@ -85,9 +85,14 @@ bare metal-->install operating system-->VM1,VM2,VM3-->type 2[VM1,VM2,VM3..,Virtu
 
 20.**VM WARE(virtual machine)**-it is a company of cloud computing and a open source(oracle),owned by broad com(62 billon$)
 
-21.**GPPR**--general data protection regulation
+21.**GDPR**--general data protection regulation
 
-22.**FAANG,MAANG,MERN**
+22.**FAANG,MAANG,MERN**-
+ a group of big tech stocks that are tradtionally made up of Facebook (Meta Platforms), Amazon, Apple, Netflix, and Google.
+ 
+ The acronym MAANG stands for Meta, Amazon, Apple, Netflix, and Google.
+
+ MERN stands for MongoDB, Express, React, Node
 
 23.**FPGA(field programmable gate array)**-A field-programmable gate array is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.
 
