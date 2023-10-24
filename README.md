@@ -64,6 +64,7 @@ c.GCP[Google Cloud Platform]-by goggle
 like JIO-ipv6, airtel-ipv4.
 
 13.**DNS[domain name server]**- turns domain names into IP Address. ex:google.com
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20200822065029/UntitledDiagram.png)
 
 14.**Routing**-the process of path selection in any network.
 
