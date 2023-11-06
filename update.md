@@ -34,7 +34,11 @@
   
 > user space and kernel space
 
->DUAL BOOT  
+>DUAL BOOT
+
+> IAAS
+
+> KAAS
 
 # 2.networking
 
@@ -62,12 +66,14 @@
 
 >LAYER 7 (PRESENTATION AND DATA LINK)
 
+>SWITCH
+
 # 3.storage 
  > block storage ex:EBS
 
  > OBJECT STORAGE ex:S3
 
- > db
+ > db-HELP TO MANAGE SERVICES
 
 > caching ex:redish
 
@@ -75,7 +81,12 @@
 > api gateway- act as mediator between server and client.
 
 > ELK STORAGE
-> 
->Von Neumann architecture and harvard architecture
 
+> Von Neumann architecture and harvard architecture
+
+
+## PROPERTIES
+> AUTO SCALING
+> reliability
+> SECURITY
 
