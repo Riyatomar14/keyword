@@ -2,15 +2,15 @@
 
 # 1.computation 
 
-CPU-central processing unit 
+> CPU-central processing unit 
 
-GPU-graphic processing unit 
+> GPU-graphic processing unit 
 
-DPU-data processing unit
+> DPU-data processing unit
 
-TPU-tensor processing unit
+> TPU-tensor processing unit
 
-*KERNEL*--that manages operations between computer and hardware.
+> KERNEL--that manages operations between computer and hardware.
 
 > host-basically a bare metal(server with no operating system)
 
@@ -31,14 +31,18 @@ TPU-tensor processing unit
   -MESOS
   -EKS(Amazon Elastic Kubernetes Service)
   -ECS(Elastic container service)   
+  
 > user space and kernel space
 
+>DUAL BOOT  
+
 # 2.networking
-OVS (open virtual switch)
 
->LOAD BALANCER-help to overcome the traffic
+> OVS (open virtual switch)
 
->SMART NICS-
+> LOAD BALANCER-help to overcome the traffic
+
+> SMART NICS-
 
   DPDK-transfer TCP packets from operating system kernel to processing running space in user space.
   
@@ -71,9 +75,7 @@ OVS (open virtual switch)
 > api gateway- act as mediator between server and client.
 
 > ELK STORAGE
-
-
-
-
 > 
-> 
+>Von Neumann architecture and harvard architecture
+
+
