@@ -1,6 +1,15 @@
 ## computer is divided into three parts-
 
 # 1.computation 
+
+CPU-central processing unit 
+
+GPU-graphic processing unit 
+
+DPU-data processing unit
+
+TPU-tensor processing unit
+
 > host-basically a bare metal(server with no operating system)
 
 > VM(virtual machine)-virtualization
