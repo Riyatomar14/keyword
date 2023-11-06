@@ -2,13 +2,7 @@
 
 # 1.computation 
 
-> CPU-central processing unit 
-
-> GPU-graphic processing unit 
-
-> DPU-data processing unit
-
-> TPU-tensor processing unit
+> CPU,GPU,TPU
 
 > KERNEL--that manages operations between computer and hardware.
 
