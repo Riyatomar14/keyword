@@ -10,6 +10,8 @@ DPU-data processing unit
 
 TPU-tensor processing unit
 
+*KERNEL*--that manages operations between computer and hardware.
+
 > host-basically a bare metal(server with no operating system)
 
 > VM(virtual machine)-virtualization
