@@ -28,11 +28,11 @@ b.MacOS
   -DOCKER SWARM
   -MESOS
   -EKS(Amazon Elastic Kubernetes Service)
-  -ECS(Elastic container service)   
+  -ECS(Elastic container service)  
   
-> user space and kernel space
+  > user space and kernel space
 
->DUAL BOOT
+  >DUAL BOOT
 
 > IAAS
 
@@ -69,6 +69,7 @@ b.MacOS
 >CDN
 
 # 3.storage 
+ 
  > block storage ex:EBS
 
  > OBJECT STORAGE ex:S3
@@ -92,6 +93,8 @@ b.MacOS
 
 ## PROPERTIES
 > AUTO SCALING
+
 > reliability
+
 > SECURITY
 
