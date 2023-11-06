@@ -4,6 +4,10 @@
 
 > CPU,GPU,TPU
 
+>OPERATING SYSTEM-
+a.Windows
+b.MacOS
+
 > KERNEL--that manages operations between computer and hardware.
 
 > host-basically a bare metal(server with no operating system)
