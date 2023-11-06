@@ -58,13 +58,15 @@ b.MacOS
 
 >ROUTE 53(DNS)
 
- LAYER 4 (TCP AND UDP)
+>LAYER 4 (TCP AND UDP)
  
 >CNI
 
 >LAYER 7 (PRESENTATION AND DATA LINK)
 
 >SWITCH
+
+>CDN
 
 # 3.storage 
  > block storage ex:EBS
@@ -80,8 +82,13 @@ b.MacOS
 
 > ELK STORAGE
 
-> Von Neumann architecture and harvard architecture
+> Von Neumann architecture
 
+> harvard architecture
+
+> IAS
+
+> FPGA
 
 ## PROPERTIES
 > AUTO SCALING
