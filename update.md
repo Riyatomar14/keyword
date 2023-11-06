@@ -32,11 +32,13 @@ b.MacOS
   
   > user space and kernel space
 
+  >eBPF 
+
   >DUAL BOOT
 
-> IAAS
+  > IAAS
 
-> KAAS
+  > KAAS
 
 # 2.networking
 
@@ -68,6 +70,8 @@ b.MacOS
 
 >CDN
 
+> TUN
+
 # 3.storage 
  
  > block storage ex:EBS
@@ -87,9 +91,11 @@ b.MacOS
 
 > harvard architecture
 
-> IAS
+> IAM
 
 > FPGA
+
+>HCI
 
 ## PROPERTIES
 > AUTO SCALING
