@@ -2,23 +2,23 @@
 
 # 1.computation 
 
-> CPU,GPU,TPU
+ **CPU,GPU,TPU**
 
->OPERATING SYSTEM-
+**OPERATING SYSTEM**
 a.Windows
 b.MacOS
 
-> KERNEL--that manages operations between computer and hardware.
+**KERNEL**--that manages operations between computer and hardware.
 
-> host-basically a bare metal(server with no operating system)
+**host**-basically a bare metal(server with no operating system)
 
-> VM(virtual machine)-virtualization
+**VM(virtual machine)**-virtualization
 
   type-1 (server with no operating system) ex:XEN,KVM
 
   type-2 (server with operating system) EX: VM WARE,ORACLE
 
-> CONTAINER
+**CONTAINER**
   -Docker container
   -linux container(LXC)
 
@@ -34,15 +34,15 @@ b.MacOS
   
   -ECS(Elastic container service)  
   
-  > user space and kernel space
+  **user space and kernel space**
 
-  >eBPF 
+  **eBPF** 
 
-  >DUAL BOOT
+  **DUAL BOOT**
 
-  > IAAS
+   **IAAS**
 
-  > KAAS
+  **KAAS**
 
 # 2.networking
 
