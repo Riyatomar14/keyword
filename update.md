@@ -44,11 +44,17 @@ b.MacOS
 
   **KAAS**
 
+  **RANCHER**
+
+  **MESOS**
+
+  **FPGA**
+
 # 2.networking
 
-**OVS** 
+**SWICH**-hardware
 
-**open Vswitch**
+**open Vswitch OR OVS**-software
 
 **LOAD BALANCER**-help to overcome the traffic
 
@@ -66,15 +72,19 @@ b.MacOS
 
 **ROUTE 53(DNS)**
 
+**DNS**
+
 **LAYER 4** (TCP AND UDP)
  
-**CNI**
+**CNI**-EX:FUNNEL,CALICO
+
+**DHCP (Dynamic Host Configuration Protocol)**- a network management protocol used to dynamically assign an IP address to any device, or node, on a network so it can communicate using IP.
+
+**HASHING**
 
 **LAYER 7** (PRESENTATION AND DATA LINK)-it is best for load balancing of HTTP and HTPPS.
 
 **SWITCH**
-
-**CDN**
 
 **TUN**
 
@@ -124,6 +134,18 @@ A content delivery network (CDN) is a group of geographically distributed server
 > SNOWBALL
   it is a way of trransferring the data physically.
 
+**ping**
+
+**NIC**
+
+**ethernet**
+
+**tap(temporary applicant pool)**
+
+**API**
+
+**rest api**
+
 # 3.storage 
  
 **block storage** ex:EBS
@@ -142,7 +164,13 @@ A content delivery network (CDN) is a group of geographically distributed server
 
 **HDD(hard disk drive)**
 
-**SDD(Solid State Drive)**
+**SSD(Solid State Drive)**-new generation of storage device 
+
+**SHARDING**- process of storing a large database across multiple machines. a type of database partitioning that separates large databases into smaller, faster, more easily managed parts.
+
+**CEPH**
+
+**ETCD**-etcd stores data in a multiversion persistent key-value store.
 
 ## architecture
 
@@ -181,5 +209,24 @@ A content delivery network (CDN) is a group of geographically distributed server
 
 **reliability**
 
+**HA(HIGH AVAILABILITY)**
+
+**REDUDANCY**
+
 **SECURITY**
+  **ZERO TRUST SECURITY** (ZTS) 
+  
+  **ZERO TOUCH PROVISIONING** (ZTP)
+
+  **HTTPS**
+
+  **SSL(SECURE SOCKET LAYER)**- STANDARD FORM-X.509 
+                                ex: caddy
+
+  **BGP(BORDER GATEWAY PROTOCOL)**-USE TO EXCHANGE ROUTING INFORMATION BETWEEN AUTONOMOUS SYSTEM(AS)
+
+## CONCEPT
+**RABBIT MQ**(message-queueing software)-OPENSTACK
+**RAFT** AND **ROUND-ROBIN**-LOAD BALANCER
+
 
