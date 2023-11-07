@@ -46,39 +46,39 @@ b.MacOS
 
 # 2.networking
 
-> OVS 
+**OVS** 
 
-> open Vswitch
+**open Vswitch**
 
-> LOAD BALANCER-help to overcome the traffic
+**LOAD BALANCER**-help to overcome the traffic
 
-> SMART NICS-
+**SMART NICS**-
 
   DPDK-transfer TCP packets from operating system kernel to processing running space in user space.
   
   SR-IOV-allows a device, such as a network adapter, to separate access to its resources among various PCIe hardware functionsand help in optimization gives efficiency.
   
->proxy and reverse proxy
+**proxy and reverse proxy**
 
->NAT
+**NAT**
 
->routing
+**routing**
 
->ROUTE 53(DNS)
+**ROUTE 53(DNS)**
 
->LAYER 4 (TCP AND UDP)
+**LAYER 4** (TCP AND UDP)
  
->CNI
+**CNI**
 
->LAYER 7 (PRESENTATION AND DATA LINK)-it is best for load balancing of HTTP and HTPPS.
+**LAYER 7** (PRESENTATION AND DATA LINK)-it is best for load balancing of HTTP and HTPPS.
 
->SWITCH
+**SWITCH**
 
->CDN
+**CDN**
 
-> TUN
+**TUN**
 
-> OSI LAYER
+**OSI LAYER**
 
  L7 PHYSICAL
 
@@ -94,7 +94,7 @@ b.MacOS
 
  L1 APPLICATION 
 
-> IP ADDRESS -INTERNET PROTOCOL(IPv4,IPv6)
+**IP ADDRESS** -INTERNET PROTOCOL(IPv4,IPv6)
 
   Public IP- ex:starts with 11..
  
@@ -102,7 +102,7 @@ b.MacOS
 
   Local IP-ex:starts with 127.0.00[a specific number]
 
-> PORT NUMBER-
+**PORT NUMBER**-
 
 eg:HTTP-80
 
@@ -116,7 +116,7 @@ TELMET-23
 
 SSH[secure shell]-22
 
-> DNS (turns domain name into IP address)
+**DNS** (turns domain name into IP address)
 
 > # CDN(content delievery network)
 A content delivery network (CDN) is a group of geographically distributed servers that speed up the delivery of web content by bringing it closer to where users are.
@@ -126,59 +126,60 @@ A content delivery network (CDN) is a group of geographically distributed server
 
 # 3.storage 
  
- > block storage ex:EBS
+**block storage** ex:EBS
 
- > OBJECT STORAGE ex:S3
+**OBJECT STORAGE** ex:S3
 
- > db-HELP TO MANAGE SERVICES
+ **db**-HELP TO MANAGE SERVICES
 
-> caching ex:redish
+ **caching** ex:redish
 
-> RAM
+**RAM**
 
-> ROM
+**ROM**
 
-> OPTICAL DISK
+**OPTICAL DISK**
 
-> HDD(hard disk drive)
+**HDD(hard disk drive)**
 
-> SDD(Solid State Drive)
+**SDD(Solid State Drive)**
 
 ## architecture
 
-> api gateway- act as mediator between server and client.
+**api gateway**- act as mediator between server and client.
 
-> ELK STACK-it is a open source and combination of elasticsearch,logstack and kiibana . it is alog management platform that provide centralized logging to identity the problems with users.
+**ELK STACK**-it is a open source and combination of elasticsearch,logstack and kiibana . it is alog management platform that provide centralized logging to identity the problems with users.
 
-> prometheus and grafana- opensource tools for application monitoring and analysis. 
+**prometheus and grafana** opensource tools for application monitoring and analysis. 
 
-> Von Neumann architecture
+**Von Neumann architecture**
 
-> harvard architecture
+**harvard architecture**
 
-> ISA(INSTRUCTION SET ARCHITECURE)-defines how the CPU is controlled by the software.
+**ISA(INSTRUCTION SET ARCHITECURE)**-defines how the CPU is controlled by the software.
 
-> CISC- COMPLEX INSTRUCTION SET COMPUTER - CLOSED SOURCE-INTEL,AMD
+**CISC**- COMPLEX INSTRUCTION SET COMPUTER - CLOSED SOURCE-INTEL,AMD
 
-> RISC- REDUCED INSTRUCTION SET COMPUTER - CLOSED SOURCE -ARM
+**RISC**- REDUCED INSTRUCTION SET COMPUTER - CLOSED SOURCE -ARM
 
   RISC V 
+  
 ## SYSTEM DESIGN 
 
-> MQTT(MESSAGE QUEING TELEMETRY TRANSPORT)- SMART SENSORS AND OTHER INTERNET OF THINGS(IOT).it is basicallly a messaging protocol.
+**MQTT(MESSAGE QUEING TELEMETRY TRANSPORT)**- SMART SENSORS AND OTHER INTERNET OF THINGS(IOT).it is basicallly a messaging protocol.
 
-> PUB-SUB (PUBLISH/SUBSCRIBER)- USED TO DISTRIBUTE SERVICE
+**PUB-SUB (PUBLISH/SUBSCRIBER)**- USED TO DISTRIBUTE SERVICE
 
-> SQL-manage the permission on server.it is structured database and having predifed schema.
+**SQL**-manage the permission on server.it is structured database and having predifed schema.
 
-> NOSQL(NOT ONLY SQL)- it is unstructured and having dynamic schema.
+**NOSQL(NOT ONLY SQL)**- it is unstructured and having dynamic schema.
 
-> CAP THEOREM-it gave guarantee of only two characterstics: availabity,consistencyand partition tolerance.
+**CAP THEOREM**-it gave guarantee of only two characterstics: availabity,consistencyand partition tolerance.
 
 ## PROPERTIES
-> AUTO SCALING
+**AUTO SCALING**
 
-> reliability
+**reliability**
 
-> SECURITY
+**SECURITY**
 
