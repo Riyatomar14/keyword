@@ -101,11 +101,11 @@ b.MacOS
 
 > IP ADDRESS -INTERNET PROTOCOL(IPv4,IPv6)
 
-  Public IP-
+  Public IP- ex:starts with 11..
+ 
+  Private IP-10. ,172. ,192. . 
 
-  Private IP-
-
-  Local IP-
+  Local IP-ex:starts with 127.0.00[a specific number]
 
 > PORT NUMBER-
 
