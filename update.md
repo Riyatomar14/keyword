@@ -1,8 +1,3 @@
-# CDN(content delievery network)
-A content delivery network (CDN) is a group of geographically distributed servers that speed up the delivery of web content by bringing it closer to where users are.
-
-> SNOWBALL
-  it is a way of trransferring the data physically.
 ## computer is divided into three parts-
 
 # 1.computation 
@@ -123,6 +118,12 @@ SSH[secure shell]-22
 
 > DNS (turns domain name into IP address)
 
+> # CDN(content delievery network)
+A content delivery network (CDN) is a group of geographically distributed servers that speed up the delivery of web content by bringing it closer to where users are.
+
+> SNOWBALL
+  it is a way of trransferring the data physically.
+
 # 3.storage 
  
  > block storage ex:EBS
@@ -159,7 +160,18 @@ SSH[secure shell]-22
 
 > RISC- REDUCED INSTRUCTION SET COMPUTER - CLOSED SOURCE -ARM
 
-  RISC V IS IN TRED NOW.
+  RISC V 
+## SYSTEM DESIGN 
+
+> MQTT(MESSAGE QUEING TELEMETRY TRANSPORT)- SMART SENSORS AND OTHER INTERNET OF THINGS(IOT).it is basicallly a messaging protocol.
+
+> PUB-SUB (PUBLISH/SUBSCRIBER)- USED TO DISTRIBUTE SERVICE
+
+> SQL-manage the permission on server.it is structured database and having predifed schema.
+
+> NOSQL(NOT ONLY SQL)- it is unstructured and having dynamic schema.
+
+> CAP THEOREM-it gave guarantee of only two characterstics: availabity,consistencyand partition tolerance.
 
 ## PROPERTIES
 > AUTO SCALING
