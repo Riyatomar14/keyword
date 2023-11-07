@@ -1,3 +1,8 @@
+# CDN(content delievery network)
+A content delivery network (CDN) is a group of geographically distributed servers that speed up the delivery of web content by bringing it closer to where users are.
+
+> SNOWBALL
+  it is a way of trransferring the data physically.
 ## computer is divided into three parts-
 
 # 1.computation 
@@ -16,18 +21,22 @@ b.MacOS
 
   type-1 (server with no operating system) ex:XEN,KVM
 
-  type-2 (server with operating system) EX: VIRTUAL BOX
+  type-2 (server with operating system) EX: VM WARE,ORACLE
 
-  
 > CONTAINER
   -Docker container
   -linux container(LXC)
 
   ORCHESTRATION CONTAINERS(manage service with container)
+  
   -KUBERNETES(K8S)
+  
   -DOCKER SWARM
+  
   -MESOS
+  
   -EKS(Amazon Elastic Kubernetes Service)
+  
   -ECS(Elastic container service)  
   
   > user space and kernel space
@@ -42,7 +51,9 @@ b.MacOS
 
 # 2.networking
 
-> OVS (open virtual switch)
+> OVS 
+
+> open Vswitch
 
 > LOAD BALANCER-help to overcome the traffic
 
@@ -64,13 +75,39 @@ b.MacOS
  
 >CNI
 
->LAYER 7 (PRESENTATION AND DATA LINK)
+>LAYER 7 (PRESENTATION AND DATA LINK)-it is best for load balancing of HTTP and HTPPS.
 
 >SWITCH
 
 >CDN
 
 > TUN
+
+> OSI LAYER
+
+ L7 PHYSICAL
+
+ L6 DATA LINK
+ 
+ L5 NETWORK 
+ 
+ L4 TRANSPORT
+ 
+ L3 SESSION
+ 
+ L2 PRESENTATION
+
+ L1 APPLICATION 
+
+> IP ADDRESS -INTERNET PROTOCOL(IPv4,IPv6)
+
+  Public IP-
+
+  Private IP-
+
+  Local IP-
+
+> PORT NUMBER-
 
 # 3.storage 
  
@@ -82,7 +119,18 @@ b.MacOS
 
 > caching ex:redish
 
+> RAM
+
+> ROM
+
+> OPTICAL DISK
+
+> HDD(hard disk drive)
+
+> SDD(Solid State Drive)
+
 ## architecture
+
 > api gateway- act as mediator between server and client.
 
 > ELK STORAGE
@@ -91,11 +139,13 @@ b.MacOS
 
 > harvard architecture
 
-> IAM
+> ISA(INSTRUCTION SET ARCHITECURE)-defines how the CPU is controlled by the software.
 
-> FPGA
+> CISC- COMPLEX INSTRUCTION SET COMPUTER - CLOSED SOURCE-INTEL,AMD
 
->HCI
+> RISC- REDUCED INSTRUCTION SET COMPUTER - CLOSED SOURCE -ARM
+
+  RISC V IS IN TRED NOW.
 
 ## PROPERTIES
 > AUTO SCALING
