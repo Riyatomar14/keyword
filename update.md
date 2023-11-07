@@ -148,7 +148,9 @@ A content delivery network (CDN) is a group of geographically distributed server
 
 > api gateway- act as mediator between server and client.
 
-> ELK STORAGE
+> ELK STACK-it is a open source and combination of elasticsearch,logstack and kiibana . it is alog management platform that provide centralized logging to identity the problems with users.
+
+> prometheus and grafana- opensource tools for application monitoring and analysis. 
 
 > Von Neumann architecture
 
