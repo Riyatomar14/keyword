@@ -109,6 +109,20 @@ b.MacOS
 
 > PORT NUMBER-
 
+eg:HTTP-80
+
+HTTPS-443
+
+FTP-20,21
+
+SMTP-25
+
+TELMET-23
+
+SSH[secure shell]-22
+
+> DNS (turns domain name into IP address)
+
 # 3.storage 
  
  > block storage ex:EBS
