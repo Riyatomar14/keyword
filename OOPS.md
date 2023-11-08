@@ -3,6 +3,8 @@
  ## **TYPES OF OOPS**</br>
 ![diagram](https://static.javatpoint.com/interview/images/oops-interview-questions-q4.png)</br>
 
+1.ENCAPSULATION-
+
 
 ## OOPS CONTAINS-
 
