@@ -1,4 +1,35 @@
 ## **OOPS (OBJECT-ORIENTED PROMMING)** CONCEPT IN PYTHON
+NOTE:
+  **C + OPPS--> C++**
+
+##  **COMPONENTS OF OOPS**
+
+ 1. CONSTRUCTOR- METHOD INSIDE A CLASS(SAME AS CLASS NAME)
+
+ 2. CLASS- BLUEPRINT OF PROGRAM
+   
+ 3. EXAMPLE: CLASS <CLASSNAME>
+   {
+      //MEMBERS
+   };
+
+    TYPES OF CLASS MEMBERS-
+   
+    1.STATIC OR CLASS MEMBER- USE WITHOUT AN OBJECT AND DIRECTLY USING A CLASS NAME WITH SCOPE RESOLUTION(::)
+    
+    ![IMAGE](https://image.slidesharecdn.com/sscoperesolutionoperator-230313163841-52ed4319/85/sscope-resolution-operatorpptx-2-320.jpg?cb=1678725939)
+    
+    2.NON-STATIC OR INSTANCE MEMBER- ALWAYS NEED AN OBJECT TO US.
+    
+ 4. OBJECT- A DATA FIELD WITH UNIQUE ATTRIBUTES.
+
+   THERE ARE TWO TYPE OF OBJECT-
+   
+   STATIC
+   
+   DYNAMIC
+   
+ 5. REFERENCE-a variable that points to an object of a given class, letting you access the value of an object.
 
  ## **PILLAR OF OOPS**</br>
  
@@ -18,40 +49,14 @@
 
   THERE ARE TWO TYPE OF OVERLOADING-
   
-   -METHOD OR FUNCTION OVERLOADING
+   METHOD OR FUNCTION OVERLOADING
    
-   -OPERATTOR OVERLOADING
+   OPERATTOR OVERLOADING
    
-4.INHERITANCE-
-
-##  **COMPONENTS OF OOPS**
-
- 1. CONSTRUCTOR- METHOD INSIDE A CLASS(SAME AS CLASS NAME)
-
- 2. CLASS- BLUEPRINT OF PROGRAM
-   
- 3. EXAMPLE: CLASS <CLASSNAME>
-   {
-      //MEMBERS
-   };
-
-   -TYPES OF CLASS MEMBERS-
-   
-    1.STATIC OR CLASS MEMBER- USE WITHOUT AN OBJECT AND DIRECTLY USING A CLASS NAME WITH SCOPE RESOLUTION(::)
-    
-    ![IMAGE](https://image.slidesharecdn.com/sscoperesolutionoperator-230313163841-52ed4319/85/sscope-resolution-operatorpptx-2-320.jpg?cb=1678725939)
-    
-    2.NON-STATIC OR INSTANCE MEMBER- ALWAYS NEED AN OBJECT TO US.
-    
- 4. OBJECT- A DATA FIELD WITH UNIQUE ATTRIBUTES.
-
-   THERE ARE TWO TYPE OF OBJECT-
-   
-   STATIC
-   
-   DYNAMIC
-   
- 5. REFERENCE-a variable that points to an object of a given class, letting you access the value of an object.
+4.INHERITANCE- one class inherits the attributes and methods of another class. 
+  THERE ARE TWO TYPES OF INHERTANCE-
+   -METHOD HIDING
+   -METHOD OVERRIDING
 
 
 
