@@ -227,6 +227,7 @@ A content delivery network (CDN) is a group of geographically distributed server
 
 ## CONCEPT
 **RABBIT MQ**(message-queueing software)-OPENSTACK
+
 **RAFT** AND **ROUND-ROBIN**-LOAD BALANCER
 
 
