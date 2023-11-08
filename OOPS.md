@@ -1,10 +1,13 @@
 ## **OOPS (OBJECT-ORIENTED PROMMING)** CONCEPT IN PYTHON
 
-## OOPS HAVE 
+ ## **TYPES OF OOPS**</br>
+![diagram](https://static.javatpoint.com/interview/images/oops-interview-questions-q4.png)</br>
+
 
 ## OOPS CONTAINS-
 
  1. CONSTRUCTOR
  2. CLASS
- 3. REFERENCE
- 4. 
+ 3. OBJECT
+ 4. REFERENCE
+
