@@ -6,7 +6,7 @@
 
 4.Vendor lock in - use only one cloud and cannot shifted to other
 
-5. private cloud -openstack,open nebula, eucalyptus-in 2011
+5.private cloud -openstack,open nebula, eucalyptus-in 2011
  
 6.AWS beanstalk -for deploying and scaling web application
 
