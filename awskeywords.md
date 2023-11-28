@@ -386,8 +386,11 @@ NOTE-BOTO library used in AWS use for python 
 
 
 63.CLOUD FORMATION -AWS CloudFormation is a service provided by Amazon Web Services that enables users to model and manage infrastructure resources in an automated and secure manner. Using CloudFormation, developers can define and provision AWS infrastructure resources using a JSON or YAML formatted Infrastructure as Code template
-
+## how load balancer manage the traffic :
 ![Screenshot 2023-11-27 111333](https://github.com/Riyatomar14/keyword/assets/143107173/27fe9068-7b73-47d5-85ca-53571a7f2352)
+
+![Screenshot 2023-11-27 111446](https://github.com/Riyatomar14/keyword/assets/143107173/a6cbbe9e-8436-4efc-baa2-f0bb48fb38de)
+
 
 
 
