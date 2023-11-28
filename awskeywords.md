@@ -8,7 +8,7 @@
 
 5.private cloud -openstack,open nebula, eucalyptus-in 2011
  
-6.AWS beanstalk -for deploying and scaling web application
+6.AWS beanstalk -for deploying and scaling web application.
 
 7.Paas-aws beanstalk
 
