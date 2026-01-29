@@ -1,4 +1,4 @@
-# Cloud-Native Technologies – Made From Keywords
+# Cloud-Native Technologies
 
 | Cloud-Native Tool | Made From (Keywords) | Purpose |
 |------------------|--------------------|---------|
