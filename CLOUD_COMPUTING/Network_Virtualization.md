@@ -1,6 +1,4 @@
-# Network Flow: Physical NIC → Container
-## **Clear Diagrams + Theory Only**
-
+# Network Flow: Physical NIC → Virtual NIC →  Container
 ---
 
 ## 🎯 What We're Learning
@@ -13,9 +11,7 @@ Let me show you with clear diagrams and simple explanations.
 
 ## 📊 THE COMPLETE PICTURE
 
-```
-                    THE FULL JOURNEY
-                    
+```                 
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │  1. PHYSICAL WORLD                                      │
@@ -23,7 +19,7 @@ Let me show you with clear diagrams and simple explanations.
 │                                                         │
 └────────────────────┬────────────────────────────────────┘
                      │
-                     │ IRQ (Interrupt)
+                     │ IRQ (Interrupt Request)
                      │
                      ▼
 ┌─────────────────────────────────────────────────────────┐
@@ -41,7 +37,7 @@ Let me show you with clear diagrams and simple explanations.
         ▼            ▼            ▼
     ┌─────┐     ┌─────┐     ┌─────┐
     │ PP  │     │ PB  │     │ PF  │
-    │     │     │DPDK │     │eBPF │
+    │OVS  │     │DPDK │     │eBPF │
     └──┬──┘     └──┬──┘     └──┬──┘
        │           │            │
        └───────────┼────────────┘
@@ -49,9 +45,9 @@ Let me show you with clear diagrams and simple explanations.
                    ▼
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│  3. VIRTUAL NIC (veth pair)                            │
-│     Host Side ←──cable──→ Container Side              │
-│     [veth0]   ←─linked─→  [veth1 = eth0]             │
+│  3. VIRTUAL NIC (veth pair)                             │
+│     Host Side ←──cable──→ Container Side                │
+│     [veth0]   ←─linked─→  [veth1 = eth0]                │
 │                                                         │
 └────────────────────┬────────────────────────────────────┘
                      │
@@ -59,9 +55,9 @@ Let me show you with clear diagrams and simple explanations.
                      ▼
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│  4. SOFTWARE SWITCH (Bridge or OVS)                    │
-│     Decides: which veth should get this packet?        │
-│     Like a traffic cop directing cars                  │
+│  4. SOFTWARE SWITCH (Bridge or OVS)                     │
+│     Decides: which veth should get this packet?         │
+│     Like a traffic cop directing cars                   │
 │                                                         │
 └────────────────────┬────────────────────────────────────┘
                      │
@@ -888,7 +884,4 @@ Throughout: Cilium's eBPF records the flow for Hubble
 
 ---
 
-## 💡 THE ONE SENTENCE SUMMARY
-
-**The packet arrives at a physical NIC, enters the kernel, optionally goes through eBPF programs for filtering, travels through a virtual cable (veth pair) that was set up by a CNI plugin, gets switched by a software bridge, and finally arrives in the container's isolated network namespace where it appears as a normal network interface.**
 
