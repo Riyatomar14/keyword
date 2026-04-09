@@ -169,3 +169,12 @@
 
 **d)** Set up a firewall rule and test its functionality.
 
+<img width="1919" height="898" alt="Screenshot 2026-04-10 000414" src="https://github.com/user-attachments/assets/c0af7987-f058-4991-86d9-e318336930ee" />
+<img width="1901" height="562" alt="Screenshot 2026-04-10 000615" src="https://github.com/user-attachments/assets/11343fd2-287b-41b6-8f6f-e2ab126e3867" />
+<img width="1915" height="887" alt="Screenshot 2026-04-10 000744" src="https://github.com/user-attachments/assets/b3edec64-3b2f-4f1e-a4e9-f03b7014ddfd" />
+<img width="1911" height="887" alt="Screenshot 2026-04-10 000810" src="https://github.com/user-attachments/assets/6aac97c2-9b20-4127-b561-7d69be1bf5b1" />
+<img width="1912" height="892" alt="Screenshot 2026-04-10 001223" src="https://github.com/user-attachments/assets/0b9bb8fd-4a0c-4144-9040-fa2963c10202" />
+<img width="1917" height="878" alt="Screenshot 2026-04-10 001255" src="https://github.com/user-attachments/assets/523912dc-1ecb-4ab5-8691-1c6e6414f5a5" />
+<img width="1910" height="886" alt="Screenshot 2026-04-10 001849" src="https://github.com/user-attachments/assets/b3e0acb9-5a31-4d4c-8025-4c57c983159f" />
+<img width="1915" height="885" alt="Screenshot 2026-04-10 002043" src="https://github.com/user-attachments/assets/a3583f9d-f3e4-4076-bbba-05c83d7be010" />
+
