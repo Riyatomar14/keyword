@@ -20,6 +20,13 @@
 <img width="1915" height="858" alt="Screenshot 2026-03-24 094205" src="https://github.com/user-attachments/assets/6c6f1833-5334-4a2c-99ac-5c67dfb7af32" />
 <img width="1913" height="878" alt="Screenshot 2026-03-24 094249" src="https://github.com/user-attachments/assets/e52855c6-a683-4f31-81f4-bde5d3441d36" />
 <img width="1657" height="291" alt="Screenshot 2026-03-24 094400" src="https://github.com/user-attachments/assets/098367cd-439d-48a6-a787-ef5b1ebc8787" />
+<img width="1913" height="843" alt="image" src="https://github.com/user-attachments/assets/fe98de0d-4ce0-42b9-aa1f-cfdd764da297" />
+<img width="1912" height="660" alt="image" src="https://github.com/user-attachments/assets/ce390c81-5ab9-4850-9fb4-dd52fe57cb32" />
+<img width="1913" height="676" alt="Screenshot 2026-04-12 124955" src="https://github.com/user-attachments/assets/0f02c74b-b2f7-46ef-9bc9-f06c51c3da2c" />
+<img width="1912" height="516" alt="image" src="https://github.com/user-attachments/assets/7c9655d2-e11c-4d70-908a-8cdfb4fdce19" />
+<img width="1902" height="889" alt="Screenshot 2026-04-12 130938" src="https://github.com/user-attachments/assets/064babbb-79ed-4a8e-8904-01de38786b6d" />
+<img width="1908" height="704" alt="image" src="https://github.com/user-attachments/assets/e80cf788-39cd-4c4e-9e0f-2393766c3219" />
+
 
 ---
 
@@ -34,14 +41,8 @@
 
 **d)** Use a NAT Gateway to provide internet access for instances in the private subnet.
 
-<img width="1916" height="836" alt="Screenshot 2026-03-24 115314" src="https://github.com/user-attachments/assets/ff2c366c-0dc7-4593-bd49-37e492671930" />
-<img width="1918" height="849" alt="Screenshot 2026-03-24 115333" src="https://github.com/user-attachments/assets/da767c98-2797-4276-af1d-c8e4e43b0e7b" />
-<img width="1918" height="907" alt="Screenshot 2026-03-24 115351" src="https://github.com/user-attachments/assets/416d7d59-8378-47b2-be0c-aef4dcd1bc7e" />
-<img width="1919" height="878" alt="Screenshot 2026-03-24 115428" src="https://github.com/user-attachments/assets/9b7aeac6-dfb6-4361-89cd-8346ebe8da0b" />
-<img width="1919" height="890" alt="Screenshot 2026-03-24 115603" src="https://github.com/user-attachments/assets/f4ffb1cb-fa7b-4d99-9997-17bbf6ca0bde" />
-<img width="1916" height="916" alt="Screenshot 2026-03-24 115706" src="https://github.com/user-attachments/assets/26a4dd3c-f285-4d92-bd87-bf05b1d1d137" />
-<img width="1919" height="904" alt="Screenshot 2026-03-24 115722" src="https://github.com/user-attachments/assets/d1be5ac0-e496-40c1-9528-0929aba880a1" />
-<img width="1919" height="778" alt="Screenshot 2026-03-24 115745" src="https://github.com/user-attachments/assets/3d95dac2-eeaa-4a78-904b-b54de0221357" />
+<img width="1908" height="547" alt="image" src="https://github.com/user-attachments/assets/60be356b-d057-4488-abd6-36c7807336ef" />
+<img width="1908" height="514" alt="image" src="https://github.com/user-attachments/assets/7a6ca850-7b9f-4db6-8398-ad7c823c51b2" />
 
 ---
 
