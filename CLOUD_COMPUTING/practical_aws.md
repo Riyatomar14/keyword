@@ -88,3 +88,75 @@
 <img width="1911" height="944" alt="Screenshot 2026-04-16 182953" src="https://github.com/user-attachments/assets/650120ed-6868-482c-9f5c-34ea7689828a" />
 <img width="1910" height="952" alt="Screenshot 2026-04-16 183027" src="https://github.com/user-attachments/assets/c5c82a6d-01d7-486e-bea4-976004a9981a" />
 <img width="1917" height="1072" alt="Screenshot 2026-04-16 183112" src="https://github.com/user-attachments/assets/af54ec29-7b46-4cd9-a294-bcc3f6fbd696" />
+
+## 6. Monitor Resources Using AWS CloudWatch
+**Objective:** Use CloudWatch to monitor AWS resources.
+
+**a)** Set up CloudWatch metrics for an EC2 instance (e.g., CPU utilization).
+
+**b)** Create a CloudWatch Alarm to send notifications when a threshold is exceeded.
+
+**c)** Configure an SNS topic for email notifications.
+
+**d)** Test the setup by simulating high CPU usage.
+
+<img width="1913" height="954" alt="Screenshot 2026-04-16 222811" src="https://github.com/user-attachments/assets/3f5b43fc-ec31-4bac-a26d-3e9b7f93c49e" />
+<img width="1918" height="958" alt="Screenshot 2026-04-16 222906" src="https://github.com/user-attachments/assets/623fa630-28c5-423b-a86a-d07dd5a299e6" />
+<img width="1907" height="947" alt="Screenshot 2026-04-16 223226" src="https://github.com/user-attachments/assets/1da43421-b5cf-480d-a6f5-187307e10cb0" />
+<img width="8" height="6" alt="Screenshot 2026-04-16 223418" src="https://github.com/user-attachments/assets/6c49893e-ace9-4812-ad04-84987fd231be" />
+<img width="1917" height="958" alt="Screenshot 2026-04-16 223445" src="https://github.com/user-attachments/assets/75633ae4-fd56-4510-b487-b8df4bc05bea" />
+<img width="1915" height="948" alt="image" src="https://github.com/user-attachments/assets/60fa96bc-03ce-416c-84d1-3241b9a14df7" />
+
+## 7. Install OpenStack
+**Objective:** Set up a local OpenStack environment for practice.
+
+<img width="1910" height="955" alt="image" src="https://github.com/user-attachments/assets/31b55e17-8032-429a-b3b7-8fea5e9ef440" />
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/16738c8f-e42e-435f-b236-960900c9a43a" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/464865eb-7cef-4152-834d-5786784d4690" />
+
+
+## 8. Launch Your First OpenStack Instance
+**Objective:** Create a virtual machine (VM) using OpenStack.
+
+**a)** Create a project and assign roles to users.
+
+**b)** Upload an image  to the Glance service.
+
+**c)** Define a flavor to specify VM configurations.
+
+**d)** Launch an instance using the Horizon dashboard or CLI.
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/38e76753-8ab8-4fd4-acc8-5f7cc07a2978" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8a34f57-08c0-4ad4-80c5-1cde250cec98" />
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/b21c8537-3b2b-48a8-ba40-dfa0c7ffb56c" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ebb7f9f4-fdf2-4da4-aaa0-24c127c90c89" />
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/f85bb5c8-22ff-45df-9268-a2870dce18c5" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/37ef6ff3-fe72-45a6-8072-40afbe9e3c43" />
+
+## 9. Set Up Networking
+**Objective:** Configure OpenStack Neutron to provide networking for instances.
+
+**a)** Create a private network and a public network.
+
+**b)** Attach a router to connect the private network to the public network.
+
+**c)** Assign floating IPs to instances for external access.
+
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/3fccd920-cb1e-4a3d-8110-c3100dfdf59e" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0d13320a-5a80-44f8-81f7-47d95f7f7f08" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8d1356a3-9d76-4a4a-8c95-e88bc8e3259e" />
+<img width="1912" height="915" alt="Screenshot 2026-03-24 111436" src="https://github.com/user-attachments/assets/cdf99fe3-3df8-41d0-ab03-5c9dfc13509f" />
+<img width="1916" height="918" alt="Screenshot 2026-03-24 111528" src="https://github.com/user-attachments/assets/d3d4825b-89a1-4c8a-a0f7-b5003b72d217" />
+
+
+
+
+## 10. Cloud Security
+**Objective:** Understand security practices in the cloud.
+
+**a)** Implement IAM roles and policies for a cloud platform.
+
+**b)** Create and assign least-privilege roles to users.
+
+**c)** Configure data encryption for storage (e.g., S3 bucket encryption).
+
+**d)** Set up a firewall rule and test its functionality.
