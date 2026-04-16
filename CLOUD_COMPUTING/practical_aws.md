@@ -160,3 +160,12 @@
 **c)** Configure data encryption for storage (e.g., S3 bucket encryption).
 
 **d)** Set up a firewall rule and test its functionality.
+<img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/fcd7eb71-407b-442d-b3f7-d36203856ed5" />
+<img width="1916" height="963" alt="image" src="https://github.com/user-attachments/assets/412e4a6a-55c2-450e-984c-d4763c6fb98a" />
+<img width="1862" height="1079" alt="image" src="https://github.com/user-attachments/assets/214655f3-50df-4261-9ce1-0a348084c95d" />
+<img width="1916" height="1084" alt="image" src="https://github.com/user-attachments/assets/4d6132bf-16e2-4f58-8f0f-d5d38bc4ca27" />
+
+<img width="1917" height="963" alt="image" src="https://github.com/user-attachments/assets/fa064b44-bc3e-4768-a256-22e0e7961243" />
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/fc9b0d9e-ce51-44af-ac61-0d89403e03f4" />
+<img width="1910" height="955" alt="image" src="https://github.com/user-attachments/assets/b1c66300-9ef0-4d85-b8bb-a0c25b577b59" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ef66d0e2-4bd6-4fce-84bc-64bcd9659c0c" />
