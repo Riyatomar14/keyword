@@ -82,3 +82,9 @@
 **b)** Configure permissions and enable public access.
 
 
+<img width="1907" height="953" alt="Screenshot 2026-04-16 182823" src="https://github.com/user-attachments/assets/24edec84-3379-48d6-96e2-1aab2d68bebf" />
+<img width="1908" height="950" alt="Screenshot 2026-04-16 182839" src="https://github.com/user-attachments/assets/b6cbe3d2-bfd2-45c9-afa1-6c4b31e8912f" />
+<img width="1915" height="955" alt="Screenshot 2026-04-16 182909" src="https://github.com/user-attachments/assets/fbcdb847-e6ab-4de0-8040-6859b6b343b0" />
+<img width="1911" height="944" alt="Screenshot 2026-04-16 182953" src="https://github.com/user-attachments/assets/650120ed-6868-482c-9f5c-34ea7689828a" />
+<img width="1910" height="952" alt="Screenshot 2026-04-16 183027" src="https://github.com/user-attachments/assets/c5c82a6d-01d7-486e-bea4-976004a9981a" />
+<img width="1917" height="1072" alt="Screenshot 2026-04-16 183112" src="https://github.com/user-attachments/assets/af54ec29-7b46-4cd9-a294-bcc3f6fbd696" />
