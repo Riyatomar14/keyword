@@ -47,3 +47,38 @@
 <img width="1918" height="1079" alt="Screenshot 2026-04-16 170519" src="https://github.com/user-attachments/assets/28a9fd4f-b25f-485f-92b7-c49c366fca92" />
 <img width="1919" height="1077" alt="Screenshot 2026-04-16 172058" src="https://github.com/user-attachments/assets/c20ed219-71a6-44bd-a81a-c648f2962d00" />
 
+
+## 4. Configure Auto Scaling and Load Balancing
+**Objective:** Set up an auto-scaling group and load balancer.
+
+**a)** Create an Auto Scaling Group and define a launch template.
+
+**b)** Configure scaling policies (e.g., scale up when CPU utilization exceeds 70%).
+
+**c)** Deploy an Application Load Balancer (ALB) to distribute traffic.
+
+**d)** Test auto-scaling by simulating high traffic.
+
+
+<img width="1903" height="953" alt="Screenshot 2026-04-16 173159" src="https://github.com/user-attachments/assets/c2c8935e-88f2-4754-bfc8-4bd67402c36e" />
+<img width="1913" height="955" alt="Screenshot 2026-04-16 174601" src="https://github.com/user-attachments/assets/6a2867a3-078f-464d-b0b0-19310052aa41" />
+<img width="1912" height="951" alt="Screenshot 2026-04-16 174720" src="https://github.com/user-attachments/assets/f5ba554c-6f7d-4860-933d-c75b5d98ce36" />
+<img width="1912" height="956" alt="Screenshot 2026-04-16 174750" src="https://github.com/user-attachments/assets/7687e289-1d54-4c62-9c3f-3e495eda22f9" />
+<img width="1916" height="961" alt="Screenshot 2026-04-16 173616" src="https://github.com/user-attachments/assets/14f7edb5-23de-484d-91a6-7197f231b705" />
+<img width="1913" height="955" alt="Screenshot 2026-04-16 174229" src="https://github.com/user-attachments/assets/53c58dbb-b24f-4f0a-af9a-e1e6303deb9e" />
+<img width="1902" height="962" alt="Screenshot 2026-04-16 174852" src="https://github.com/user-attachments/assets/75d396c0-dd44-4a5c-844a-0cac4a69594b" />
+<img width="1911" height="955" alt="Screenshot 2026-04-16 175008" src="https://github.com/user-attachments/assets/16b2bc59-84eb-4083-9c70-7575230dbd98" />
+<img width="1917" height="951" alt="Screenshot 2026-04-16 175120" src="https://github.com/user-attachments/assets/0c3e1b8f-0f69-4a55-9ec9-6bde344d30f1" />
+<img width="1911" height="956" alt="Screenshot 2026-04-16 175246" src="https://github.com/user-attachments/assets/9afad869-8676-4fb0-a433-d7944609e071" />
+<img width="1918" height="470" alt="Screenshot 2026-04-16 181003" src="https://github.com/user-attachments/assets/d34c03f3-2e6c-4e74-ac69-fbfdd501ae9d" />
+<img width="1917" height="959" alt="Screenshot 2026-04-16 181251" src="https://github.com/user-attachments/assets/de1b9d6a-1167-4804-8933-9b2228d1b91a" />
+
+## 5. Deploying a Static Website on the Cloud
+**Objective:** Host a static website using cloud storage services.
+
+**a)** Deploy a static website using any of the following:
+- AWS S3
+  
+**b)** Configure permissions and enable public access.
+
+
